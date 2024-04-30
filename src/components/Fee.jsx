@@ -9,7 +9,7 @@ export default function Fee() {
     <>
       <div className="inline-block sm:w-[75%] ">
         <div className="px-2 sm:pr-8 pb-8 grid gap-4">
-          <div className="p-6 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-3xl rounded-lg shadow-2xl">
+          <div className="p-4 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-2xl rounded-lg shadow-2xl">
             PUBLICATION FEES FOR ALL AUTHORS
           </div>
 
@@ -18,11 +18,11 @@ export default function Fee() {
               RS. 499 FOR INDIAN AUTHORS and 20$ FOR FOREIGN AUTHORS
             </h2>
 
-            <h2 className="text-left pb-4 text-2xl font-semibold">
+            <h2 className="text-left pb-4 text-xl font-semibold">
               Paper Publication or Processing Charges :
             </h2>
 
-            <p className="text-justify text-xl ">
+            <p className="text-justify text-[16px] ">
               Ingenious Research Journal for Technological Advancements in
               Engineering operates as an Open Access publication. It does not
               generate revenue from the sale of online articles. Instead, it
@@ -41,16 +41,16 @@ export default function Fee() {
                 className=" sm:hover:scale-105 transition-all duration-700 sm:w-[70%] bg-blue-200 py-8 pb-12 rounded-lg
                "
               >
-                <h1 className="text-5xl font-semibold">
+                <h1 className="text-4xl font-semibold">
                   <FontAwesomeIcon
                     icon={faIndianRupeeSign}
-                    className="text-6xl pr-3"
+                    className="text-5xl pr-3"
                   />
                   499
                 </h1>
                 <p className="pt-4 pb-10 text-lg hidden">Research Paper</p>
 
-                <h1 className="text-2xl hidden pt-6 sm:block ">
+                <h1 className="text-xl hidden pt-6 sm:block ">
                   PAY FOR RESEARCH PAPER
                 </h1>
 
@@ -82,7 +82,7 @@ export default function Fee() {
                 <NavLink
                   to="/SubmitPaperOnline"
                   value="Click here to Apply"
-                  className="py-4 px-8 bg-blue-800 text-white text-xl rounded-full "
+                  className="py-2 px-8 bg-blue-800 text-white text-lg rounded-full "
                 >
                   Submit your Article
                 </NavLink>

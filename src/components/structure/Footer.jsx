@@ -8,7 +8,7 @@ export default function Footer() {
   return (
     <>
       <footer className="bg-gray-800 text-white py-4">
-        <div className="w-full grid gap-12 sm:flex sm:justify-around text-xl text-blue-200 p-4">
+        <div className="w-full grid gap-8 sm:flex sm:justify-around text-lg text-blue-200 p-2">
           <div className="text-center hidden sm:block">
             <h1 className="text-white text-3xl pt-4 font-semibold">IRJTAE</h1>
             <p className="pt-4">
@@ -67,7 +67,7 @@ export default function Footer() {
           </ul>
         </div>
 
-        <div className="pt-6 text-center text-lg">
+        <div className="pt-4 text-center text-sm">
           <p>&copy; 2024 IRJTAE. All rights reserved.</p>
         </div>
       </footer>

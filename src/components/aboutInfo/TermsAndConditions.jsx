@@ -6,15 +6,15 @@ export default function TermsAndConditions() {
     <>
       <div className="inline-block w-[75%] ">
         <div className="pr-8 pb-8 grid gap-4">
-          <div className="p-6 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-3xl rounded-lg shadow-2xl">
+          <div className="p-4 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-2xl rounded-lg shadow-2xl">
             TERMS AND CONDITIONS
           </div>
 
           <div className="bg-white rounded-lg px-8 py-8 border-[1px] border-gray-300  shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
-            <div className="text-3xl font-semibold pt-4 pb-2 text-center">
+            <div className="text-xl font-semibold pt-4 pb-2 text-center">
               PAPER PUBLICATION PROCESS
             </div>
-            <p className="text-lg">
+            <p className="text-[16px]">
               IRJTAE accepts paper from Engineering, Technology, Management,
               Advancement and other research areas in the form of research
               paper, final paper, thesis, review article or case studies.
@@ -28,10 +28,10 @@ export default function TermsAndConditions() {
                 Publication Process.
               </NavLink>
             </p>
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               PROCESS OF PAPER PUBLICATION
             </h1>
-            <ol className="text-lg list-decimal pl-6 ">
+            <ol className="text-[16px] list-decimal pl-6 ">
               <li>
                 Author submit paper/ research article in word format through
                 link provided on home page of site or e-mail at irjtae@gmail.com
@@ -63,12 +63,12 @@ export default function TermsAndConditions() {
                 at irjtae@gmail.com
               </li>
             </ol>
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               ARTICLE WITHDRAWAL AND REFUND POLICY
             </h1>
             <p
               className="
-            text-lg pb-4"
+            text-[16px] pb-4"
             >
               Article that have been submitted and accepted for review but which
               have not been formally published and will not yet have the
@@ -80,7 +80,7 @@ export default function TermsAndConditions() {
             </p>
             <p
               className="
-            text-lg pb-4"
+            text-[16px] pb-4"
             >
               IRJTAE avoid unwarranted withdrawal of manuscripts. In such case
               IRJTAE defines refund policy keeping in mind the cause the time
@@ -88,12 +88,12 @@ export default function TermsAndConditions() {
             </p>
             <p
               className="
-            text-lg pb-2"
+            text-[16px] pb-2"
             >
               Authors should follow the publication ethics. Visit publication
               policies:
             </p>
-            <ol className="text-lg list-decimal pl-6 ">
+            <ol className="text-[16px] list-decimal pl-6 ">
               <li>
                 Author should keep patience. Paper can review within 24 hours
                 after accepted and published online within 4 hour after
@@ -141,10 +141,10 @@ export default function TermsAndConditions() {
                 has rights to withdraw or reject that paper.
               </li>
             </ol>
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               COPYRIGHT POLICY
             </h1>
-            <p className="text-lg">
+            <p className="text-[16px]">
               Copyright policies are legal documents that specify who retains
               the right to use and distribute an original work. After submitting
               paper, authors are asked to submit copyright agreement to abide by
@@ -157,10 +157,10 @@ export default function TermsAndConditions() {
               available as widely as possible and that the paper can be included
               in any IRJTAE archive.
             </p>
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               List of author rights in copyright policy:
             </h1>
-            <ol className="text-lg">
+            <ol className="text-[16px]">
               <li>
                 In future, reuse of research work idea or data of the paper .
               </li>
@@ -177,10 +177,10 @@ export default function TermsAndConditions() {
                 figure.
               </li>
             </ol>
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               List of all rights author(s) are granting to IRJTAE:{" "}
             </h1>
-            <ol className="text-lg">
+            <ol className="text-[16px]">
               <li>
                 Author may reproduce, publish, distribute, edit, and translate
                 the work, with specified exclusivity.
@@ -199,10 +199,10 @@ export default function TermsAndConditions() {
                 avoid confusion.
               </li>
             </ol>
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               AUTHOR WARRANTIES AND DEFINITIONS
             </h1>
-            <ol className="text-lg">
+            <ol className="text-[16px]">
               <li>
                 Expectations of the author(s) or warranties that the author(s)
                 must make with regard to the nature of the submission.

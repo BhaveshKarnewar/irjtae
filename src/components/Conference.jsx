@@ -5,14 +5,14 @@ export default function Conference() {
     <>
       <div className="inline-block w-[75%] ">
         <div className="pr-8 pb-8 grid gap-4">
-          <div className="p-6 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-3xl rounded-lg shadow-2xl">
+          <div className="p-4 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-2xl rounded-lg shadow-2xl">
             CONFERENCE
           </div>
 
-          <div className="bg-white rounded-lg px-8 py-12 border-[1px] border-gray-300 text-center shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
+          <div className="bg-white rounded-lg px-6 py-8 border-[1px] border-gray-300 text-center shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
             {/* index */}
             <hr />
-            <div className="flex justify-between px-8 py-2 text-xl font-semibold">
+            <div className="flex justify-between px-8 py-2 text-[16px] font-semibold">
               <p className="w-[50%] text-left">Conferences</p>
               <p>Date</p>
               <p>Venue</p>
@@ -21,12 +21,12 @@ export default function Conference() {
 
             {/* Conferences */}
             <div id="Conferences" className="grid gap-4 py-4">
-              <div className="flex justify-between px-8 text-xl">
+              <div className="flex justify-between px-8 text-[16px]">
                 <div className="text-left w-[50%]">
                   <h1 className="font-semibold">
                     NATIONAL CONFERENCE ON MECHANICAL AND AUTOMOBILE ENGINEERING
                   </h1>
-                  <p className="text-lg">
+                  <p className="text-[16px]">
                     Attend here:
                     <a
                       className="text-blue-600"
@@ -43,13 +43,13 @@ export default function Conference() {
               </div>
               <hr />
 
-              <div className="flex justify-between px-8 text-xl">
+              <div className="flex justify-between px-8 text-[16px]">
                 <div className="text-left w-[50%]">
                   <h1 className="font-semibold">
                     INTERNATIONAL CONFERENCE ON SCIENCE TECHNOLOGY AND
                     MANAGEMENT
                   </h1>
-                  <p className="text-lg">
+                  <p className="text-[16px]">
                     Attend here:
                     <a
                       target="_blank"
@@ -65,13 +65,13 @@ export default function Conference() {
                 <p>Pune, India</p>
               </div>
               <hr />
-              <div className="flex justify-between px-8 text-xl">
+              <div className="flex justify-between px-8 text-[16px]">
                 <div className="text-left w-[50%]">
                   <h1 className="font-semibold">
                     NATIONAL CONFERENCE ON ADVANCES IN ENGINEERING AND
                     TECHNOLOGY
                   </h1>
-                  <p className="text-lg">
+                  <p className="text-[16px]">
                     Attend here:
                     <a
                       target="_blank"
@@ -90,12 +90,12 @@ export default function Conference() {
                 </p>
               </div>
               <hr />
-              <div className="flex justify-between px-8 text-xl">
+              <div className="flex justify-between px-8 text-[16px]">
                 <div className="text-left w-[50%]">
                   <h1 className="font-semibold">
                     NATIONAL CONFERENCE ON INTERNET OF THINGS
                   </h1>
-                  <p className="text-lg">
+                  <p className="text-[16px]">
                     Attend here:
                     <a
                       target="_blank"
@@ -111,13 +111,13 @@ export default function Conference() {
                 <p> Raipur, India</p>
               </div>
               <hr />
-              <div className="flex justify-between px-8 text-xl">
+              <div className="flex justify-between px-8 text-[16px]">
                 <div className="text-left w-[50%]">
                   <h1 className="font-semibold">
                     INTERNATIONAL CONFERENCE ON COMPUTATIONAL INTELLIGENCE AND
                     COMMUNICATION NETWORKS
                   </h1>
-                  <p className="text-lg">
+                  <p className="text-[16px]">
                     Attend here:
                     <a
                       target="_blank"

@@ -6,14 +6,14 @@ export default function About() {
     <>
       <div className="inline-block w-[75%] ">
         <div className="pr-8 pb-8 grid gap-4">
-          <div className="p-6 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-3xl rounded-lg shadow-2xl">
+          <div className="p-4 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-2xl rounded-lg shadow-2xl">
             Welcome to IRJTAE
           </div>
 
-          <div className="bg-white rounded-lg px-8 py-12 border-[1px] border-gray-300 text-center shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
-            <h2 className="text-3xl font-semibold pb-12">EDITOR</h2>
+          <div className="bg-white rounded-lg px-6 py-8 border-[1px] border-gray-300 text-center shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
+            <h2 className="text-2xl font-semibold pb-8">EDITOR</h2>
 
-            <p className="text-justify text-lg  ">
+            <p className="text-justify text-[16px] ">
               IRJTAE invites research papers, final papers, technical report,
               scientific and review articles from authors to submit from all the
               areas of engineering, technology,Artificial Intelligence, Machine
@@ -27,7 +27,7 @@ export default function About() {
               quality editorial, reviewer and support, having the most talented
               and professional team.
             </p>
-            <p className="text-justify text-lg py-8">
+            <p className="text-justify text-[16px] py-8">
               IRJTAE is a key factor in raising the standards of discussion,
               evaluation and analysis relating to topics of engineering,
               technology, advancement, management and other research area. It
@@ -48,8 +48,8 @@ export default function About() {
           <div className="p-8 bg-white rounded-md border-[1px] border-gray-300 shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px] grid grid-cols-5">
             <div className="col-span-2">
               {" "}
-              <h1 className="text-2xl font-semibold">About :</h1>
-              <ul className="pt-6 grid gap-4 text-xl pl-6 list-disc font-semibold">
+              <h1 className="text-xl font-semibold">About :</h1>
+              <ul className="pt-6 grid gap-2 text-lg pl-6 list-disc font-semibold">
                 <li className="hover:text-blue-800 hover:scale-105 transition duration-500">
                   <NavLink to="/PeerReviewProcess">Peer Review Process</NavLink>
                 </li>
@@ -67,9 +67,9 @@ export default function About() {
               </ul>
             </div>
             <div className="col-span-3 grid gap-4">
-              <h1 className="text-2xl font-semibold">Editorial Board :</h1>
+              <h1 className="text-xl font-semibold">Editorial Board :</h1>
 
-              <p className="text-lg">
+              <p className="text-[16px]">
                 The editorial board of IRJTAE serves as the backbone of
                 scholarly publication, guiding the direction, quality, and
                 integrity of the articles. Comprising esteemed experts and
@@ -81,7 +81,7 @@ export default function About() {
 
               <NavLink
                 to="/EditorialBoard"
-                className="p-2 text-xl font-semibold bg-blue-700 w-[100px] text-center text-white rounded-lg hover:scale-110 transition-all duration-500"
+                className="p-2 text-lg font-semibold bg-blue-700 w-[80px] text-center text-white rounded-lg hover:scale-110 transition-all duration-500"
               >
                 View
               </NavLink>

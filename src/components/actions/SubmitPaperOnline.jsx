@@ -10,18 +10,18 @@ export default function SubmitPaperOnline() {
   return (
     <div className="inline-block w-[75%] ">
       <div className="pr-8 pb-8 grid gap-4">
-        <div className="p-6 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-3xl rounded-lg shadow-2xl">
+        <div className="p-4 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-2xl rounded-lg shadow-2xl">
           SUBMIT PAPER ONLINE
         </div>
 
         <div className="bg-white rounded-lg px-8 py-8 border-[1px] border-gray-300  shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
           <div className="">
-            <h1 className="text-3xl font-semibold pb-6">Add Paper Details </h1>
+            <h1 className="text-xl font-semibold pb-4">Add Paper Details </h1>
             <hr />
             <form
               id="form"
               onSubmit={displayMessage}
-              className="text-xl pt-6 grid gap-4"
+              className="text-lg pt-6 grid gap-4"
             >
               <div className="grid grid-cols-2 gap-12">
                 <div className="col-span-1 flex justify-between">
@@ -30,7 +30,7 @@ export default function SubmitPaperOnline() {
                 </div>
                 <div className="col-span-1 flex justify-between">
                   <p>Research Area :</p>
-                  <select className="w-[40%] sm:mr-[20%]  h-[40px] px-4 rounded-md bg-gray-100 border-[1px] border-gray-400">
+                  <select className="w-[40%] sm:mr-[20%]  h-[30px] px-4 rounded-md bg-gray-100 border-[1px] border-gray-400">
                     <option value="" disabled selected>
                       Select one
                     </option>
@@ -98,7 +98,7 @@ export default function SubmitPaperOnline() {
               <hr className="h-0.5  bg-gray-400" />
 
               {/* Add Author */}
-              <h1 className="text-3xl font-semibold">Add Author</h1>
+              <h1 className="text-xl font-semibold">Add Author</h1>
               <div className="grid grid-cols-4 gap-6 font-semibold">
                 <p className="col-span-1">Name</p>
                 <p className="col-span-1">Email</p>
@@ -132,14 +132,14 @@ export default function SubmitPaperOnline() {
               <hr className="h-0.5  bg-gray-400" />
 
               {/* Upload paper */}
-              <h1 className="text-3xl font-semibold">Upload Paper:</h1>
+              <h1 className="text-xl font-semibold">Upload Paper:</h1>
 
               <div className="">
                 <label>
                   <p className="inline-block w-[25%]">
                     File Upload <span className="text-red-600 text-xl">*</span>{" "}
                     <br />
-                    <span className="text-lg text-red-500">
+                    <span className="text-[16px] text-red-500">
                       (Upload Only .Doc/.Docx File )
                     </span>
                   </p>
@@ -173,7 +173,7 @@ export default function SubmitPaperOnline() {
               <div className=" text-center">
                 <button
                   type="submit"
-                  className="py-1  w-[100px] hover:scale-110 transition duration-300 bg-blue-500 hover:bg-blue-800 text-2xl text-white rounded-lg mt-4 text-center
+                  className="py-1  w-[100px] hover:scale-110 transition duration-300 bg-blue-500 hover:bg-blue-800 text-xl text-white rounded-lg mt-4 text-center
             "
                 >
                   Submit

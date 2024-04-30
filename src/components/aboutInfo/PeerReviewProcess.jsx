@@ -6,13 +6,13 @@ export default function PeerReviewProcess() {
     <>
       <div className="inline-block w-[75%] ">
         <div className="pr-8 pb-8 grid gap-4">
-          <div className="p-6 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-3xl rounded-lg shadow-2xl">
+          <div className="p-4 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-2xl rounded-lg shadow-2xl">
             PEER REVIEW PROCESS
           </div>
 
           <div className="bg-white rounded-lg px-8 py-8 border-[1px] border-gray-300  shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
-            <h1 className="text-3xl font-semibold pb-2 ">PAPER SUBMISSION</h1>
-            <ol className="list-decimal pl-4 text-lg grid gap-4">
+            <h1 className="text-xl font-semibold pb-2 ">PAPER SUBMISSION</h1>
+            <ol className="list-decimal pl-4 text-[16px] grid gap-4">
               <li>
                 The corresponding author should submit the paper to the journal
                 online using this link :{" "}
@@ -30,11 +30,11 @@ export default function PeerReviewProcess() {
               </li>
             </ol>
 
-            <h1 className="text-3xl font-semibold pt-8 pb-2 ">
+            <h1 className="text-xl font-semibold pt-8 pb-2 ">
               EDITORIAL BOARD
             </h1>
 
-            <ol className="list-decimal pl-4 text-lg grid gap-4">
+            <ol className="list-decimal pl-4 text-[16px] grid gap-4">
               <li>
                 {" "}
                 Editorial Board will check the plagiarism, format and
@@ -75,12 +75,12 @@ export default function PeerReviewProcess() {
                 or minor), that should be well substantiated and justified.
               </li>
             </ol>
-            <h1 className="text-3xl font-semibold pt-8 pb-2 ">
+            <h1 className="text-xl font-semibold pt-8 pb-2 ">
               The key parameters to be applied in the final evaluation of all
               types of submissions are :
             </h1>
 
-            <ul className="list-disc pl-6 text-lg grid gap-4">
+            <ul className="list-disc pl-6 text-[16px] grid gap-4">
               <li>
                 Innovation (Is the manuscript original? Does it provide new
                 evidence or ideas capable of furthering knowledge in the given
@@ -97,11 +97,11 @@ export default function PeerReviewProcess() {
               </li>
             </ul>
 
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               Four possible decisions may therefore be reached
             </h1>
 
-            <ul className="list-disc pl-6 text-lg grid gap-4">
+            <ul className="list-disc pl-6 text-[16px] grid gap-4">
               <li>
                 Accept – the manuscript satisfies all publication parameters and
                 is worthy of publication.
@@ -121,11 +121,11 @@ export default function PeerReviewProcess() {
               </li>
             </ul>
 
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               CONFIRMATION OF THE DECISION AND COMMUNICATION TO THE AUTHORS
             </h1>
 
-            <ul className=" text-lg grid gap-4">
+            <ul className=" text-[16px] grid gap-4">
               <li>
                 All decisions are confirmed by the Editor-in-Chief prior to
                 notification. The Editorial Board sends a decision email to the
@@ -154,9 +154,9 @@ export default function PeerReviewProcess() {
                 to author with certificate of publication
               </li>
             </ul>
-            <h1 className="text-3xl font-semibold pt-8 pb-2">FAIR PLAY</h1>
+            <h1 className="text-xl font-semibold pt-8 pb-2">FAIR PLAY</h1>
 
-            <p className=" text-lg ">
+            <p className=" text-[16px] ">
               Editor should evaluate manuscripts for their intellectual content
               without regard to race, gender, sexual orientation, religious
               belief, ethnic origin, citizenship, or political philosophy of the
@@ -166,11 +166,11 @@ export default function PeerReviewProcess() {
               journal.
             </p>
 
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               COPYRIGHT POLICY
             </h1>
 
-            <p className=" text-lg ">
+            <p className=" text-[16px] ">
               Copyright policies are legal documents that specify who retains
               the right to use and distribute an original work. After submitting
               paper, authors are asked to submit copyright agreement to abide by
@@ -184,10 +184,10 @@ export default function PeerReviewProcess() {
               in any IRJTAE archive.
             </p>
 
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               List of author rights in copyright policy:
             </h1>
-            <ul className=" text-lg grid gap-2">
+            <ul className=" text-[16px] grid gap-2">
               <li>In future research work reuse idea or data of the paper.</li>
               <li>
                 Reproduce copies of the article for academic, coaching or
@@ -202,11 +202,11 @@ export default function PeerReviewProcess() {
               </li>
             </ul>
 
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               List of all rights author(s) are granting to IRJTAE :
             </h1>
 
-            <ul className=" text-lg grid gap-2">
+            <ul className=" text-[16px] grid gap-2">
               <li>
                 Reproduce, publish, distribute, edit and translate the work
                 (specify either exclusively or non-exclusively).
@@ -224,11 +224,11 @@ export default function PeerReviewProcess() {
               </li>
             </ul>
 
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               AUTHOR WARRANTIES AND DEFINITIONS :
             </h1>
 
-            <ul className=" text-lg grid gap-2">
+            <ul className=" text-[16px] grid gap-2">
               <li>
                 Expectations of the author(s) or warranties that the author(s)
                 must make with regard to the nature of the submission. The

@@ -15,8 +15,8 @@ export default function Home() {
             {/* Welcome */}
 
             <div
-              className="py-5 text-center text-black
-             rounded-lg  bg-blue-200 text-3xl font-bold shadow-xl "
+              className="py-4 text-center text-black
+             rounded-lg  bg-blue-200 text-2xl font-bold shadow-xl "
             >
               Welcome to IRJTAE
             </div>
@@ -24,19 +24,19 @@ export default function Home() {
 
             <div className="p-4 bg-white rounded-lg text-center grid shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px] border-[1px] border-gray-300  ">
               <h1
-                className="p-4 text-3xl font-semibold
+                className="p-2 text-2xl font-semibold
               "
               >
                 Call for paper
               </h1>
-              <p className="text-xl font-semibold">
+              <p className="text-lg font-semibold">
                 Review Status : 24 to 48 Hours
               </p>
-              <p className="text-xl font-semibold pb-8">
+              <p className="text-lg font-semibold pb-8">
                 Paper publication : 4 hours
               </p>
 
-              <p className="text-justify text-lg px-6">
+              <p className="text-justify text-[16px] px-4">
                 IRJTAE stands as a peer-reviewed, Open Access journal, operating
                 at a low cost and with expedited processing times. It's
                 dedicated to disseminating original research and review articles
@@ -50,9 +50,9 @@ export default function Home() {
                 work.
               </p>
 
-              <div id="services" className=" pl-12 pt-8 text-left">
-                <h1 className="text-3xl font-semibold py-2">Our Services</h1>
-                <ul className="list-disc grid gap-2 text-lg p-6 ">
+              <div id="services" className=" pl-8 pt-8 text-left">
+                <h1 className="text-2xl font-semibold py-2">Our Services</h1>
+                <ul className="list-disc grid gap-1 text-[16px] p-4 ">
                   <li>Low cost Journal</li>
                   <li> Fast response after received paper within 4 hours.</li>
                   <li>
@@ -84,10 +84,10 @@ export default function Home() {
 
           <div className="col-span-2 sm:block hidden">
             <div className="bg-white h-full rounded-lg  border-gray-300 border-[1px] shadow-[4.0px_8.0px_8.0px_rgba(0,0,0,0.38)]">
-              <h1 className="text-2xl pl-8 pt-5">News and Events</h1>
-              <p className="pl-8 font-[1000]">__________</p>
+              <h1 className="text-xl pl-6 pt-4">News and Events</h1>
+              <p className="pl-6">__________</p>
 
-              <ul className=" pt-8 pl-12 pr-12 text-lg list-disc text-justify grid gap-6">
+              <ul className=" pt-4 pl-12 pr-12 text-[16px] list-disc text-justify grid gap-2">
                 <li>
                   This paper has been published on this date by this author
                 </li>

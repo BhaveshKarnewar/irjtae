@@ -5,22 +5,21 @@ export default function Header() {
   return (
     <>
       <header className="flex flex-col justify-center items-center">
-        <div className="w-full pt-[32px] text-center font-bold text-blue-800 flex sm:px-12 sm:justify-between flex-col sm:flex-row justify-center items-center  ">
+        <div className="w-full pt-[22px] text-center font-bold text-blue-800 flex sm:px-12 sm:justify-between flex-col sm:flex-row justify-center items-center  ">
           <a href="#">
             <img
               src="/captcha/IRJTAE_logo_show.png"
-              className=" h-[70px] w-[70px] sm:h-[150px] sm:w-[150px]"
+              className=" h-[70px] w-[70px] sm:h-[120px] sm:w-[120px]"
               alt=""
             />
           </a>
 
           <div>
-            <h1 className="text-3xl">
-              INGENIOUS RESEARCH JOURNAL FOR TECHNOLOGICAL ADVANCEMENTS
-              <br />
+            <h1 className="text-2xl">
+              INGENIOUS RESEARCH JOURNAL FOR TECHNOLOGICAL ADVANCEMENTS <br />{" "}
               IN ENGINEERING
             </h1>
-            <p className="text-sm sm:text-xl font-normal pt-2">
+            <p className="text-sm sm:text-[15px] font-normal pt-2">
               (Open access, Peer reviewed, Technological Journal)
             </p>
           </div>
@@ -32,52 +31,52 @@ export default function Header() {
         </div>
         <div className="w-[90%] bg-blue-300 p-2 mb-8 mt-6 sm:mt-2 rounded-full text-xl shadow-2xl">
           <div className="sm:hidden pl-4 sm:pl-8 sm:py-4">IRJTA</div>
-          <div className="hidden sm:flex sm:justify-between sm:items-center px-[10%] text-2xl">
+          <div className="hidden sm:flex sm:justify-between sm:items-center px-[10%] text-xl">
             <NavLink
               to=""
-              className="rounded-lg hover:bg-blue-600 p-4  hover:text-white font-semibold "
+              className="rounded-lg hover:bg-blue-600 p-3  hover:text-white font-semibold "
             >
               HOME
             </NavLink>
             <NavLink
               to="/Indexing"
-              className="rounded-lg hover:bg-blue-600 p-4  hover:text-white font-semibold "
+              className="rounded-lg hover:bg-blue-600 p-3  hover:text-white font-semibold "
             >
               INDEXING
             </NavLink>
             <NavLink
               to="/Fee"
-              className="rounded-lg hover:bg-blue-600 p-4  hover:text-white font-semibold "
+              className="rounded-lg hover:bg-blue-600 p-3  hover:text-white font-semibold "
             >
               FEE
             </NavLink>
             <NavLink
               to="/Archives"
-              className="rounded-lg hover:bg-blue-600 p-4  hover:text-white font-semibold "
+              className="rounded-lg hover:bg-blue-600 p-3  hover:text-white font-semibold "
             >
               ARCHIVES
             </NavLink>
             <NavLink
               to="/Conference"
-              className="rounded-lg hover:bg-blue-600 p-4  hover:text-white font-semibold "
+              className="rounded-lg hover:bg-blue-600 p-3  hover:text-white font-semibold "
             >
               CONFERENCE
             </NavLink>
             <NavLink
               to="/EditorialBoard"
-              className="rounded-lg hover:bg-blue-600 p-4  hover:text-white font-semibold "
+              className="rounded-lg hover:bg-blue-600 p-3  hover:text-white font-semibold "
             >
-              <div className="w-[205px]">EDITORIAL BOARD</div>
+              <div className=" inline-block">EDITORIAL BOARD</div>
             </NavLink>
             <NavLink
               to="/About"
-              className="rounded-lg hover:bg-blue-600 p-4  hover:text-white font-semibold "
+              className="rounded-lg hover:bg-blue-600 p-3  hover:text-white font-semibold "
             >
               ABOUT
             </NavLink>
             <NavLink
               to="/Contact"
-              className="rounded-lg hover:bg-blue-600 p-4  hover:text-white font-semibold"
+              className="rounded-lg hover:bg-blue-600 p-3  hover:text-white font-semibold"
             >
               CONTACT
             </NavLink>

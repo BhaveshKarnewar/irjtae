@@ -5,14 +5,14 @@ export default function PrivacyPolicies() {
     <>
       <div className="inline-block w-[75%] ">
         <div className="pr-8 pb-8 grid gap-4">
-          <div className="p-6 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-3xl rounded-lg shadow-2xl">
+          <div className="p-4 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-2xl rounded-lg shadow-2xl">
             PRIVACY POLICIES & SECURITY
           </div>
 
           <div className="bg-white rounded-lg px-8 py-8 border-[1px] border-gray-300  shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
             {" "}
-            <h1 className="text-3xl font-semibold pb-2 ">PRIVACY POLICIES</h1>
-            <ul className="text-lg grid gap-4">
+            <h1 className="text-xl font-semibold pb-2 ">PRIVACY POLICIES</h1>
+            <ul className="text-[16px] grid gap-4">
               <li>
                 IRJTAE is committed to protecting the privacy of the visitors,
                 users and Authors of the websites. We have adopted the following
@@ -51,8 +51,8 @@ export default function PrivacyPolicies() {
                 policy governs only the IRJTAE.
               </li>
             </ul>
-            <h1 className="text-3xl font-semibold pt-8 pb-2 ">SECURITY</h1>
-            <ul className="text-lg grid gap-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2 ">SECURITY</h1>
+            <ul className="text-[16px] grid gap-2">
               <li>
                 IRJTAE committed to ensuring that your Personal information is
                 safe. In order to prevent disclosure or unauthorized access, we

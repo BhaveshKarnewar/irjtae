@@ -5,15 +5,15 @@ export default function PublicationEthics() {
     <>
       <div className="inline-block w-[75%] ">
         <div className="pr-8 pb-8 grid gap-4">
-          <div className="p-6 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-3xl rounded-lg shadow-2xl">
+          <div className="p-4 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-2xl rounded-lg shadow-2xl">
             PUBLICATION ETHICS
           </div>
 
           <div className="bg-white rounded-lg px-8 py-8 border-[1px] border-gray-300  shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
-            <h1 className="text-3xl font-semibold pt-4 pb-2">
+            <h1 className="text-xl font-semibold pt-4 pb-2">
               PUBLICATION ETHICS AND PUBLICATION MALPRACTICE STATEMENT
             </h1>
-            <p className="text-lg">
+            <p className="text-[16px]">
               IRJTAE Journal encourage the best standards of publication ethics
               and take all possible measures against publication malpractices.
               These guidelines are fully consistent with the COPE Principles of
@@ -28,17 +28,17 @@ export default function PublicationEthics() {
                 here.
               </a>
             </p>
-            <p className="text-lg pt-4">
+            <p className="text-[16px] pt-4">
               As an essential issue, publication ethics needs to be explained
               clearly to improve the quality of the research worldwide. In this
               part, we explain the standard for editors, authors, and reviewers.
               Publisher don’t have right to interfere with the integrity of the
               contents and only support to publish in timely manner.
             </p>
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               EDITORIAL RESPONSIBILITIES
             </h1>
-            <ol className="text-lg gap-4 grid list-decimal pl-6">
+            <ol className="text-[16px] gap-4 grid list-decimal pl-6">
               <li>
                 The Editors’ decisions to accept or reject a manuscript for
                 publication should be based on the importance, originality,
@@ -79,11 +79,11 @@ export default function PublicationEthics() {
                 manuscript.
               </li>
             </ol>
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               DUTIES AND RESPONSIBILITIES OF REVIEWERS
             </h1>
 
-            <ol className="text-lg gap-4 grid list-decimal pl-6">
+            <ol className="text-[16px] gap-4 grid list-decimal pl-6">
               <li>
                 Peer review assists the editor in making editorial decisions and
                 through the editorial communications with the author may also
@@ -136,10 +136,10 @@ export default function PublicationEthics() {
                 him or herself from the review process.
               </li>
             </ol>
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               AUTHORS RESPONSIBILITIES
             </h1>
-            <ol className="text-lg gap-4 grid list-decimal pl-6">
+            <ol className="text-[16px] gap-4 grid list-decimal pl-6">
               <li>
                 {" "}
                 The research being reported should have been conducted in an
@@ -224,10 +224,10 @@ export default function PublicationEthics() {
                 of reviewers.
               </li>
             </ol>
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               DEALING WITH POTENTIAL MISCONDUCT
             </h1>
-            <p className="text-lg">
+            <p className="text-[16px]">
               Editors have a duty to take action if they suspect misconduct or
               if an allegation of misconduct is notified to them. This duty
               extends to both published and unpublished papers. Editors should
@@ -242,8 +242,8 @@ export default function PublicationEthics() {
               editors should make all reasonable attempts to obtain a resolution
               to the problem.
             </p>
-            <h1 className="text-3xl font-semibold pt-8 pb-2">PLAGIARISM</h1>
-            <p className="text-lg">
+            <h1 className="text-xl font-semibold pt-8 pb-2">PLAGIARISM</h1>
+            <p className="text-[16px]">
               Manuscript submissions are checked for intellectual property
               protection and document-versus-document(s) analysis to satisfy the
               Editor that the submitted manuscript has not been plagiarised.
@@ -260,10 +260,10 @@ export default function PublicationEthics() {
               context of the advancement of the field, and acknowledge the
               findings of others on which you have built your research.
             </p>
-            <h1 className="text-3xl font-semibold pt-8 pb-2">
+            <h1 className="text-xl font-semibold pt-8 pb-2">
               ETHICAL OVERSIGHT
             </h1>
-            <p className="text-lg">
+            <p className="text-[16px]">
               If the research work involves chemicals, humans, animals,
               procedures, or equipment that have any unusual hazards inherent in
               their use, the author must identify these in the manuscript to
@@ -274,8 +274,8 @@ export default function PublicationEthics() {
               practices, authors should clearly justify this matter whether the
               data or information will be hidden securely or not.
             </p>
-            <h1 className="text-3xl font-semibold pt-8 pb-2">DISCLAIMER</h1>
-            <p className="text-lg">
+            <h1 className="text-xl font-semibold pt-8 pb-2">DISCLAIMER</h1>
+            <p className="text-[16px]">
               The Editorial Board of IRJTAE JOURNAL make every effort to ensure
               the accuracy of all the information (the “Content”) contained in
               its publications. However, the Editors and Reviewers of IRJTAE

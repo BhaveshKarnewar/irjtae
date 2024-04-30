@@ -9,20 +9,20 @@ export default function PayPublicationFee() {
     <>
       <div className="inline-block w-[75%] ">
         <div className="pr-8 pb-8 grid gap-4">
-          <div className="p-6 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-3xl rounded-lg shadow-2xl">
+          <div className="p-4 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-2xl rounded-lg shadow-2xl">
             PAY PUBLICATION FEE
           </div>
 
           <div className="bg-white rounded-lg px-8 py-8 border-[1px] border-gray-300  shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
             <div className="">
-              <h1 className="text-3xl font-semibold pb-6">
+              <h1 className="text-xl font-semibold pb-6">
                 Add Payment Details
               </h1>
               <hr />
               <form
                 id="form"
                 onSubmit={displayMessage}
-                className="text-xl pt-6 grid gap-4"
+                className="text-lg pt-6 grid gap-4"
               >
                 <div className="grid grid-cols-2 gap-12">
                   <div className="col-span-1 flex justify-between">
@@ -142,7 +142,7 @@ export default function PayPublicationFee() {
                 <div className=" text-center">
                   <button
                     type="submit"
-                    className="py-1  w-[100px] hover:scale-110 transition duration-300 bg-blue-500 hover:bg-blue-800 text-2xl text-white rounded-lg mt-4 text-center
+                    className="py-1  w-[100px] hover:scale-110 transition duration-300 bg-blue-500 hover:bg-blue-800 text-xl text-white rounded-lg mt-4 text-center
             "
                   >
                     Save
