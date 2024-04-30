@@ -38,13 +38,18 @@ export default function Aside() {
               {icon}
               Pay Publication Fee
             </NavLink>
-            <a href="https://docs.google.com/document/d/1sFSXh1xEksqESSMgdWl4uTj0PQ4kHMWc/edit?usp=drive_link&ouid=106824956092792568099&rtpof=true&sd=true">
+            <a
+              //  href="https://docs.google.com/document/d/1sFSXh1xEksqESSMgdWl4uTj0PQ4kHMWc/edit?usp=drive_link&ouid=106824956092792568099&rtpof=true&sd=true"
+
+              href="docs/IRJTAE_format.docx"
+            >
               {icon}
               Paper Format
             </a>
 
             <a
-              href="https://drive.google.com/file/d/1BfxGJG7mMG4Y8ULjE1S9U3R1mFHt9Qvq/view"
+              // href="https://drive.google.com/file/d/1BfxGJG7mMG4Y8ULjE1S9U3R1mFHt9Qvq/view"
+              href="docs/IRJTAE_Copyright.pdf"
               target="_blank"
             >
               {icon}

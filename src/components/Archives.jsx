@@ -43,7 +43,7 @@ export default function Archives() {
                 <a
                   className="text-blue-600
                 "
-                  href="Images/IRJTAE_Copyright.pdf "
+                  href=""
                 >
                   Download
                 </a>
