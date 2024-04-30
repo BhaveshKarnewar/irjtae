@@ -30,9 +30,9 @@ export default function Header() {
             ISSN : Pending
           </div>
         </div>
-        <div className="w-[90%] bg-blue-300 p-2 mb-8 mt-6 sm:mt-2 rounded-full text-2xl shadow-2xl">
+        <div className="w-[90%] bg-blue-300 p-2 mb-8 mt-6 sm:mt-2 rounded-full text-xl shadow-2xl">
           <div className="sm:hidden pl-4 sm:pl-8 sm:py-4">IRJTA</div>
-          <div className="hidden sm:flex sm:justify-between sm:items-center px-[10%]">
+          <div className="hidden sm:flex sm:justify-between sm:items-center">
             <NavLink
               to=""
               className="rounded-lg hover:bg-blue-600 p-4  hover:text-white font-semibold "
