@@ -38,12 +38,15 @@ export default function Aside() {
               {icon}
               Pay Publication Fee
             </NavLink>
-            <a href="documents/IRJTAE_format.docx">
+            <a href="https://docs.google.com/document/d/1sFSXh1xEksqESSMgdWl4uTj0PQ4kHMWc/edit?usp=drive_link&ouid=106824956092792568099&rtpof=true&sd=true">
               {icon}
               Paper Format
             </a>
 
-            <a href="documents/IRJTAE_Copyright.pdf" target="_blank">
+            <a
+              href="https://drive.google.com/file/d/1BfxGJG7mMG4Y8ULjE1S9U3R1mFHt9Qvq/view"
+              target="_blank"
+            >
               {icon}
               Copyright Form
             </a>
