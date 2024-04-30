@@ -31,7 +31,7 @@ export default function EditorialBoard() {
                 <div className="w-full flex  justify-between gap-12 items-center pl-[10%]">
                   <img
                     className="h-[120px] w-[120px] rounded-full border-[2px] border-black "
-                    src="public/Images/Dhiraj_sir2.jpeg"
+                    src="Images/Dhiraj_sir2.jpeg"
                     alt=""
                   />
                   <div className="text-left w-[70%]">
@@ -57,7 +57,7 @@ export default function EditorialBoard() {
               <div className=" sm:pl-[10%] flex justify-between items-center  ">
                 <img
                   className="h-[120px] w-[120px] rounded-full border-[2px] border-black"
-                  src="public/Images/Gangaprasad.jpg"
+                  src="Images/Gangaprasad.jpg"
                   alt=""
                 />
                 <div className="text-left w-[70%]">
@@ -78,7 +78,7 @@ export default function EditorialBoard() {
               <div className=" sm:pl-[10%] flex justify-between items-center  ">
                 <img
                   className="h-[120px] w-[120px] rounded-full border-[2px] border-black"
-                  src="public/Images/Amol.png"
+                  src="Images/Amol.png"
                   alt=""
                 />
                 <div className="text-left w-[70%]">
