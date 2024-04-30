@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <>
       <header className="flex flex-col justify-center items-center">
-        <div className="w-full text-2xl pt-8 text-center font-bold text-blue-800 flex sm:px-12 sm:justify-between flex-col sm:flex-row justify-center items-center  ">
+        <div className="w-full pt-[32px] text-center font-bold text-blue-800 flex sm:px-12 sm:justify-between flex-col sm:flex-row justify-center items-center  ">
           <a href="#">
             <img
               src="/captcha/IRJTAE_logo_show.png"
@@ -15,7 +15,7 @@ export default function Header() {
           </a>
 
           <div>
-            <h1>
+            <h1 className="text-3xl">
               INGENIOUS RESEARCH JOURNAL FOR TECHNOLOGICAL ADVANCEMENTS
               <br />
               IN ENGINEERING
