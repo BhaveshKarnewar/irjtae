@@ -29,7 +29,7 @@ export default function Archives() {
                 <p>1</p>
                 <div className="text-left w-[60%]">
                   <h1 className="font-semibold">
-                    Paper Title: Something Interesting
+                    Paper mama: Something Interesting
                   </h1>
                   <p className="pt-2 text-[16px]">Author: Author name</p>
                   <p className="text-[16px]">
@@ -43,7 +43,7 @@ export default function Archives() {
                 <a
                   className="text-blue-600
                 "
-                  href=""
+                  href="Images/IRJTAE_Copyright.pdf "
                 >
                   Download
                 </a>
