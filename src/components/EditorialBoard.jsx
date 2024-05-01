@@ -8,8 +8,8 @@ export default function EditorialBoard() {
   const [icon, setIcon] = useState(<FontAwesomeIcon icon={faLinkedin} />);
   return (
     <>
-      <div className="inline-block w-[75%] ">
-        <div className="pr-8 pb-8 grid gap-4">
+      <div className="block sm:inline-block sm:w-[75%] ">
+        <div className="sm:pr-8 pb-8 grid gap-4">
           <div className="p-4 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-2xl rounded-lg shadow-2xl">
             Welcome to IRJTAE
           </div>
