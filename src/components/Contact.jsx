@@ -13,15 +13,15 @@ export default function Contact() {
 
   return (
     <>
-      <div className="inline-block w-[75%] ">
-        <div className="pr-8 pb-8 grid gap-4">
+      <div className="block sm:inline-block sm:w-[75%]  ">
+        <div className="sm:pr-8 pb-8 grid gap-4">
           <div className="p-4 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-2xl rounded-lg shadow-2xl">
             CONTACT US
           </div>
 
           <div className="bg-white rounded-lg px-8 py-8 border-[1px] border-gray-300  shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
             {/* Contact us */}
-            <div className="grid grid-cols-3 gap-8">
+            <div className="grid sm:grid-cols-3 gap-8">
               <div className="sm:col-span-1 border-2 border-gray-300 rounded-lg p-4 text-center ">
                 <div className="text-center text-3xl pb-4">
                   {" "}
@@ -71,7 +71,7 @@ export default function Contact() {
                   </label>
                   <input
                     type="text"
-                    className="w-[30%] h-[40px] px-4 rounded-md bg-gray-100 border-[1px] border-gray-400"
+                    className="w-[60%] sm:w-[30%] h-[40px] px-4 rounded-md bg-gray-100 border-[1px] border-gray-400"
                     required
                   />
                 </div>
@@ -81,7 +81,7 @@ export default function Contact() {
                   </label>
                   <input
                     type="text"
-                    className="w-[30%] h-[40px] px-4 rounded-md bg-gray-100 border-[1px] border-gray-400"
+                    className="w-[60%] sm:w-[30%]  h-[40px] px-4 rounded-md bg-gray-100 border-[1px] border-gray-400"
                     required
                   />
                 </div>
@@ -91,7 +91,7 @@ export default function Contact() {
                   </label>
                   <input
                     type="number"
-                    className="w-[30%] h-[40px] px-4 rounded-md bg-gray-100 border-[1px] border-gray-400"
+                    className="w-[60%] sm:w-[30%]  h-[40px] px-4 rounded-md bg-gray-100 border-[1px] border-gray-400"
                     required
                   />
                 </div>

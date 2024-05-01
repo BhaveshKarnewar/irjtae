@@ -8,8 +8,8 @@ export default function SubmitPaperOnline() {
   };
 
   return (
-    <div className="inline-block w-[75%] ">
-      <div className="pr-8 pb-8 grid gap-4">
+    <div className="block sm:inline-block  sm:w-[75%] ">
+      <div className="sm:pr-8 pb-8 grid gap-4">
         <div className="p-4 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-2xl rounded-lg shadow-2xl">
           SUBMIT PAPER ONLINE
         </div>
@@ -61,7 +61,8 @@ export default function SubmitPaperOnline() {
               </div>
               <div className="flex">
                 <p className="inline-block w-[25%]">
-                  Abstract/Introduction{" "}
+                  Abstract
+                  <span className="hidden sm:inline">/Introduction </span>
                   <span className="text-red-600 text-xl">*</span>
                 </p>
 
@@ -103,7 +104,10 @@ export default function SubmitPaperOnline() {
                 <p className="col-span-1">Name</p>
                 <p className="col-span-1">Email</p>
                 <p className="col-span-1">Phone</p>
-                <p className="col-span-1">Institute / Organizations </p>
+                <p className="col-span-1">
+                  Institute{" "}
+                  <span className="hidden sm:inline"> / Organizations </span>
+                </p>
               </div>
               <hr />
               <div className="grid grid-cols-4 gap-6 ">

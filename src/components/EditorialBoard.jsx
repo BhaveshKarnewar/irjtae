@@ -30,7 +30,7 @@ export default function EditorialBoard() {
               <div>
                 <div className="w-full flex  justify-between gap-12 items-center pl-[10%]">
                   <img
-                    className="h-[120px] w-[120px] rounded-full border-[2px] border-black "
+                    className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black "
                     src="Images/Dhiraj_sir2.jpeg"
                     alt=""
                   />
@@ -54,9 +54,9 @@ export default function EditorialBoard() {
                 Advisory/Editorial/Reviewer Board Members
               </h1>
 
-              <div className=" sm:pl-[10%] flex justify-between items-center  ">
+              <div className=" sm:pl-[10%] flex justify-between items-center ">
                 <img
-                  className="h-[120px] w-[120px] rounded-full border-[2px] border-black"
+                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
                   src="Images/Gangaprasad.jpg"
                   alt=""
                 />
@@ -77,7 +77,7 @@ export default function EditorialBoard() {
 
               <div className=" sm:pl-[10%] flex justify-between items-center  ">
                 <img
-                  className="h-[120px] w-[120px] rounded-full border-[2px] border-black"
+                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
                   src="Images/Amol.png"
                   alt=""
                 />
@@ -102,7 +102,7 @@ export default function EditorialBoard() {
 
               <div className=" sm:pl-[10%] flex justify-between items-center  ">
                 <img
-                  className="h-[120px] w-[120px] rounded-full border-[2px] border-black"
+                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
                   src=""
                   alt=""
                 />
@@ -122,7 +122,7 @@ export default function EditorialBoard() {
 
               <div className=" sm:pl-[10%] flex justify-between items-center  ">
                 <img
-                  className="h-[120px] w-[120px] rounded-full border-[2px] border-black"
+                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
                   src=""
                   alt=""
                 />
@@ -144,7 +144,7 @@ export default function EditorialBoard() {
               <hr />
               <div className=" sm:pl-[10%] flex justify-between items-center  ">
                 <img
-                  className="h-[120px] w-[120px] rounded-full border-[2px] border-black"
+                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
                   src=""
                   alt=""
                 />
@@ -164,7 +164,7 @@ export default function EditorialBoard() {
               <hr />
               <div className=" sm:pl-[10%] flex justify-between items-center  ">
                 <img
-                  className="h-[120px] w-[120px] rounded-full border-[2px] border-black"
+                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
                   src="Images/Pranav.jpg"
                   alt=""
                 />

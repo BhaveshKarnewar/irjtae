@@ -4,8 +4,8 @@ import { NavLink } from "react-router-dom";
 export default function About() {
   return (
     <>
-      <div className="inline-block w-[75%] ">
-        <div className="pr-8 pb-8 grid gap-4">
+      <div className="block sm:inline-block sm:w-[75%] ">
+        <div className="sm:pr-8 pb-8 grid gap-4">
           <div className="p-4 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-2xl rounded-lg shadow-2xl">
             Welcome to IRJTAE
           </div>
@@ -45,8 +45,8 @@ export default function About() {
             </div>
           </div>
 
-          <div className="p-8 bg-white rounded-md border-[1px] border-gray-300 shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px] grid grid-cols-5">
-            <div className="col-span-2">
+          <div className="p-8 bg-white rounded-md border-[1px] border-gray-300 shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px] grid sm:grid-cols-5">
+            <div className="sm:col-span-2">
               {" "}
               <h1 className="text-xl font-semibold">About :</h1>
               <ul className="pt-6 grid gap-2 text-lg pl-6 list-disc font-semibold">
@@ -66,10 +66,11 @@ export default function About() {
                 </li>
               </ul>
             </div>
-            <div className="col-span-3 grid gap-4">
+            <span className="py-4 sm:hidden"></span>
+            <div className="sm:col-span-3 grid gap-4">
               <h1 className="text-xl font-semibold">Editorial Board :</h1>
 
-              <p className="text-[16px]">
+              <p className="text-[16px] text-justify">
                 The editorial board of IRJTAE serves as the backbone of
                 scholarly publication, guiding the direction, quality, and
                 integrity of the articles. Comprising esteemed experts and

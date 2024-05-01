@@ -7,8 +7,8 @@ export default function PayPublicationFee() {
 
   return (
     <>
-      <div className="inline-block w-[75%] ">
-        <div className="pr-8 pb-8 grid gap-4">
+      <div className="block sm:inline-block sm:w-[75%] ">
+        <div className="sm:pr-8 pb-8 grid gap-4">
           <div className="p-4 border-[1px] border-gray-300 text-center text-blue-700 font-semibold bg-white text-2xl rounded-lg shadow-2xl">
             PAY PUBLICATION FEE
           </div>
@@ -25,7 +25,7 @@ export default function PayPublicationFee() {
                 className="text-lg pt-6 grid gap-4"
               >
                 <div className="grid grid-cols-2 gap-12">
-                  <div className="col-span-1 flex justify-between">
+                  <div className="sm:col-span-1 flex justify-between">
                     <p>
                       Paper Id <span className="text-red-600 text-xl">*</span>
                     </p>
@@ -35,7 +35,8 @@ export default function PayPublicationFee() {
                       required
                     />
                   </div>
-                  <div className="col-span-1 flex justify-between">
+                  <br className="sm:hidden" />
+                  <div className="sm:col-span-1 flex justify-between">
                     <p>
                       Author Name{" "}
                       <span className="text-red-600 text-xl">*</span>
@@ -74,6 +75,7 @@ export default function PayPublicationFee() {
                       required
                     />
                   </div>
+                  <br className="sm:hidden" />
                   <div className="col-span-1 flex justify-between">
                     <p>
                       Mobile Number{" "}
@@ -87,7 +89,8 @@ export default function PayPublicationFee() {
                     />
                   </div>
                 </div>
-                <div className="grid grid-cols-2 gap-12">
+                {/* grid was there in the class but due to hidden i removed it */}
+                <div className=" grid-cols-2 gap-12 hidden">
                   <div className="col-span-1 flex justify-between">
                     <p>
                       Payment Currency{" "}
