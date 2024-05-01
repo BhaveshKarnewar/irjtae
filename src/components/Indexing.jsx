@@ -42,7 +42,7 @@ export default function Indexing() {
                 alt=""
               />
             </a>
-            <a href="#" target="_blank">
+            <a href="#">
               <img
                 className="h-[160px] w-[230px]"
                 src="https://www.openaccess.nl/sites/www.openaccess.nl/files/documenten/open-access-logo-png-transparent.png"
