@@ -107,7 +107,7 @@ export default function EditorialBoard() {
                   alt=""
                 />
                 <div className="text-left w-[70%]">
-                  <h1 className="text-2xl pb-2">Prof. Prachi L.</h1>
+                  <h1 className="text-2xl pb-2">Prof. Prachi Deshmukh</h1>
                   <h1 className="text-[16px]">
                     Dept. of Computer Science, <br />
                     Prof.Ram Meghe Institute of Technology and Research Badnera
