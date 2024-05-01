@@ -169,7 +169,7 @@ export default function SubmitPaperOnline() {
 
                 <img
                   className="inline-block sm:ml-[10%] h-[70px] border-[1px] border-gray-400  rounded-md"
-                  src="public/captcha/captcha.jpg"
+                  src="captcha/captcha.jpg"
                   alt=""
                 />
               </div>
