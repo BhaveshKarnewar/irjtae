@@ -10,7 +10,10 @@ export default function Indexing() {
           </div>
 
           <div className="bg-white rounded-lg px-[15%] py-12 border-[1px] border-gray-300 text-center shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px] flex flex-wrap gap-x-20 gap-y-8 justify-center">
-            <a href="#">
+            <a
+              href="https://scholar.google.com/citations?hl=en&user=o_3Wk-cAAAAJ"
+              target="_blank"
+            >
               <img
                 className="h-[160px] w-[230px]"
                 src="https://cdn1.lib.jmu.edu/wp-content/uploads/Screenshot-2023-10-25-at-5.01.23-PM.png"
@@ -18,14 +21,14 @@ export default function Indexing() {
               />
             </a>
 
-            <a href="#">
+            <a href="https://www.slideshare.net/irjtae" target="_blank">
               <img
                 className="h-[160px] w-[230px]"
                 src="https://cdn2.downdetector.com/static/uploads/logo/logo-slideshare.png"
                 alt=""
               />
             </a>
-            <a href="#">
+            <a href="https://zenodo.org/" target="_blank">
               <img
                 className="h-[160px] w-[230px]"
                 src="https://seekvectorlogo.com/wp-content/uploads/2023/03/zenodo-vector-logo-small.png"
@@ -39,14 +42,14 @@ export default function Indexing() {
                 alt=""
               />
             </a>
-            <a href="#">
+            <a href="#" target="_blank">
               <img
                 className="h-[160px] w-[230px]"
                 src="https://www.openaccess.nl/sites/www.openaccess.nl/files/documenten/open-access-logo-png-transparent.png"
                 alt=""
               />
             </a>
-            <a href="#">
+            <a href="https://issuu.com/" target="_blank">
               <img
                 className="h-[160px] w-[230px]"
                 src="https://mma.prnewswire.com/media/1338403/Issuu_Logo.jpg?p=facebook"
