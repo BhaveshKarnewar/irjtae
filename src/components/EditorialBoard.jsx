@@ -103,17 +103,21 @@ export default function EditorialBoard() {
               <div className=" sm:pl-[10%] flex justify-between items-center  ">
                 <img
                   className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
-                  src=""
+                  src="Images/Prachi.jpg"
                   alt=""
                 />
                 <div className="text-left w-[70%]">
-                  <h1 className="text-2xl pb-2">One Female Member</h1>
+                  <h1 className="text-2xl pb-2">Prof. Prachi L.</h1>
                   <h1 className="text-[16px]">
-                    Architect, <br />
-                    Academy of Architecture, Mumbai (2017-22)
+                    Dept. of Computer Science, <br />
+                    Prof.Ram Meghe Institute of Technology and Research Badnera
+                    Amravati (2017-22)
                   </h1>{" "}
                   <p className="text-[16px]">
-                    Email: <span className="text-blue-700">@gmail.com</span>{" "}
+                    Email:{" "}
+                    <span className="text-blue-700">
+                      prachind311993@gmail.com
+                    </span>{" "}
                   </p>
                 </div>
               </div>
@@ -123,7 +127,7 @@ export default function EditorialBoard() {
               <div className=" sm:pl-[10%] flex justify-between items-center  ">
                 <img
                   className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
-                  src=""
+                  src="Images/ShreyashK.jpeg"
                   alt=""
                 />
                 <div className="text-left w-[70%]">
@@ -145,7 +149,7 @@ export default function EditorialBoard() {
               <div className=" sm:pl-[10%] flex justify-between items-center  ">
                 <img
                   className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
-                  src=""
+                  src="Images/Mayuresh.png"
                   alt=""
                 />
                 <div className="text-left w-[70%]">
@@ -156,7 +160,10 @@ export default function EditorialBoard() {
                     Sinhgad College of Engineering, Pune
                   </h1>{" "}
                   <p className="text-[16px]">
-                    Email: <span className="text-blue-700">@gmail.com</span>{" "}
+                    Email:{" "}
+                    <span className="text-blue-700">
+                      mayureshshivramwar@gmail.com
+                    </span>{" "}
                   </p>
                 </div>
               </div>
@@ -169,7 +176,7 @@ export default function EditorialBoard() {
                   alt=""
                 />
                 <div className="text-left w-[70%]">
-                  <h1 className="text-2xl pb-2">Mr. Pranay P. Purankar</h1>
+                  <h1 className="text-2xl pb-2">Mr. Pranav P. Purankar</h1>
                   <h1 className="text-[16px]">
                     Software Engineer <br />
                     Founder- Stealth Mode
