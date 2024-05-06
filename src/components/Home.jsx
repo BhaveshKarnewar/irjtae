@@ -51,6 +51,80 @@ export default function Home() {
                 work.
               </p>
 
+              <div id="Journal Particulars" className="pt-6">
+                <h1 className="font-semibold text-2xl pb-4">
+                  Journal Particulars
+                </h1>
+                <hr />
+                <div className="text-[15px]">
+                  <div className="flex text-left pl-12 py-1">
+                    <p className="w-[40%]">Title</p>
+                    <p className="w-[55%] text-blue-800">
+                      Ingenious Research Journal For Technological Advancements
+                      In Engineering
+                    </p>
+                  </div>
+                  <hr />
+                  <div className="flex text-left pl-12 py-1">
+                    <p className="w-[40%]">Frequency</p>
+                    <p className="w-[55%] text-blue-800">Monthly</p>
+                  </div>
+                  <hr />
+                  <div className="flex text-left pl-12 py-1">
+                    <p className="w-[40%]">Cheif Editor</p>
+                    <p className="w-[55%] text-blue-800">
+                      Prof. Dhiraj D Shirbhate
+                    </p>
+                  </div>
+                  <hr />
+                  <div className="flex text-left pl-12 py-1">
+                    <p className="w-[40%]">Starting Year</p>
+                    <p className="w-[55%] text-blue-800">2024</p>
+                  </div>
+                  <hr />
+                  <div className="flex text-left pl-12 py-1">
+                    <p className="w-[40%]">Subject</p>
+                    <p className="w-[55%] text-blue-800">
+                      Engineering and Technology
+                    </p>
+                  </div>
+                  <hr />
+                  <div className="flex text-left pl-12 py-1">
+                    <p className="w-[40%]">Language</p>
+                    <p className="w-[55%] text-blue-800">English</p>
+                  </div>
+                  <hr />
+                  <div className="flex text-left pl-12 py-1">
+                    <p className="w-[40%]">Publication Format</p>
+                    <p className="w-[55%] text-blue-800">Online</p>
+                  </div>
+                  <hr />
+                  <div className="flex text-left pl-12 py-1">
+                    <p className="w-[40%]">Phone no.</p>
+                    <p className="w-[55%] text-blue-800">+91 98342 35843</p>
+                  </div>
+                  <hr />
+                  <div className="flex text-left pl-12 py-1">
+                    <p className="w-[40%]">Email</p>
+                    <p className="w-[55%] text-blue-800">irjtae@gmail.com</p>
+                  </div>
+                  <hr />
+                  <div className="flex text-left pl-12 py-1">
+                    <p className="w-[40%]">Website</p>
+                    <p className="w-[55%] text-blue-800">www.irjtae.com</p>
+                  </div>
+                  <hr />
+                  <div className="flex text-left pl-12 py-1">
+                    <p className="w-[40%]">Address</p>
+                    <p className="w-[55%] text-blue-800">
+                      IRJTAE, plot no: 2, Dhanwantari Nagar, Near Kale Layout,
+                      Wadgaon, Yavatmal-445001, MH Yavatmal, Maharashtra
+                    </p>
+                  </div>
+                  <hr />
+                </div>
+              </div>
+
               <div id="services" className=" pl-8 pt-8 text-left">
                 <h1 className="text-2xl font-semibold py-2">Our Services</h1>
                 <ul className="list-disc grid gap-1 text-[16px] p-4 ">

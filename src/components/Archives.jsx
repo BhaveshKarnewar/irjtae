@@ -11,7 +11,7 @@ export default function Archives() {
 
           <div className="bg-white rounded-lg px-6 py-8 border-[1px] border-gray-300 text-center shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
             <h2 className="text-xl font-semibold pb-6">
-              Volume 1 Issue 1, April 2024
+              Volume 1, Issue 1, April 2024
             </h2>
 
             {/* index srNo,Paper,View */}

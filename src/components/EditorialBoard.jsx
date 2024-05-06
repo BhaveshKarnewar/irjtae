@@ -91,8 +91,8 @@ export default function EditorialBoard() {
                   <h1 className="text-2xl pb-2">Prof. Prachi Deshmukh</h1>
                   <h1 className="text-[16px]">
                     Dept. of Computer Science, <br />
-                    Prof.Ram Meghe Institute of Technology and Research Badnera
-                    Amravati (2017-22)
+                    Prof.Ram Meghe Institute of Technology and Research Badnera,
+                    Amravati, MH
                   </h1>{" "}
                   <p className="text-[16px]">
                     Email:{" "}
