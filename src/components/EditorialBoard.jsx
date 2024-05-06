@@ -130,26 +130,6 @@ export default function EditorialBoard() {
               <div className=" sm:pl-[10%] flex justify-between items-center  ">
                 <img
                   className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
-                  src="Images/Mayuresh.png"
-                  alt=""
-                />
-                <div className="text-left w-[70%]">
-                  <h1 className="text-2xl pb-2">Prof. S. V. Mayuresh</h1>
-                  <h1 className="text-[16px]">
-                    Dept of Electronics Engineering,
-                    <br />
-                    Sinhgad College of Engineering, Pune
-                  </h1>{" "}
-                  <p className="text-[16px]">
-                    Email:{" "}
-                    <span className="text-blue-700">mayureshs@gmail.com</span>{" "}
-                  </p>
-                </div>
-              </div>
-              <hr />
-              <div className=" sm:pl-[10%] flex justify-between items-center  ">
-                <img
-                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
                   src="Images/Shweta.jpeg"
                   alt=""
                 />
