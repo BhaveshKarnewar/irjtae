@@ -54,25 +54,6 @@ export default function EditorialBoard() {
                 Advisory/Editorial/Reviewer Board Members
               </h1>
 
-              <div className=" sm:pl-[10%] flex justify-between items-center ">
-                <img
-                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
-                  src="Images/Gangaprasad.jpg"
-                  alt=""
-                />
-                <div className="text-left w-[70%]">
-                  <h1 className="text-2xl pb-2">Mr. Gangaprasad K.</h1>
-                  <h1 className="text-[16px]">
-                    AI Engineer, QureAI <br />
-                    IIT Kanpur Alumnus
-                  </h1>
-                  <p className="text-[16px]">
-                    Email:{" "}
-                    <span className="text-blue-700">ganga.k2@gmail.com</span>{" "}
-                  </p>
-                </div>
-              </div>
-
               <hr />
 
               <div className=" sm:pl-[10%] flex justify-between items-center  ">
