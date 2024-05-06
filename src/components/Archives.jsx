@@ -32,7 +32,9 @@ export default function Archives() {
                     Improving Credit Risk Assessment in Financial Institutions
                     Using Deep Learning and Explainable AI
                   </h1>
-                  <p className="pt-2 text-[16px]">Author: Parth Thakare</p>
+                  <p className="pt-2 text-[16px]">
+                    Authors: Parth Thakare, Priyanshu Hamand
+                  </p>
                   <p className="text-[16px]">Published on: 28 Apr 2024</p>
                 </div>
 
@@ -56,7 +58,7 @@ export default function Archives() {
                     Impact of Blockchain Technology
                   </h1>
                   <p className="pt-2 text-[16px]">
-                    Author: Bhavesh Karnewar, Prof. Dhiraj D. Shirbhate
+                    Authors: Bhavesh Karnewar, Prof. Dhiraj D. Shirbhate
                   </p>
                   <p className="text-[16px]">Published on: 25 Apr 2024</p>
                 </div>
@@ -78,7 +80,7 @@ export default function Archives() {
                     Advancements and Applications of Drone Technology: A
                     Comprehensive Review
                   </h1>
-                  <p className="pt-2 text-[16px]">Author: Aman Deepak Yadav</p>
+                  <p className="pt-2 text-[16px]">Authors: Aman Deepak Yadav</p>
                   <p className="text-[16px]">Published on: 24 Apr 2024</p>
                 </div>
 
@@ -99,7 +101,7 @@ export default function Archives() {
                     Sustainable Civil Engineering Solutions through
                     Technological Innovations
                   </h1>
-                  <p className="pt-2 text-[16px]">Author: Shreyash Purankar</p>
+                  <p className="pt-2 text-[16px]">Authors: Shreyash Purankar</p>
                   <p className="text-[16px]">Published on: 24 Apr 2024</p>
                 </div>
 
@@ -121,7 +123,7 @@ export default function Archives() {
                     Technological Review
                   </h1>
                   <p className="pt-2 text-[16px]">
-                    Author: Atal Dubey, Khushi Chaturkar
+                    Authors: Atal Dubey, Khushi Chaturkar
                   </p>
                   <p className="text-[16px]">Published on: 15 Apr 2024</p>
                 </div>
@@ -143,7 +145,7 @@ export default function Archives() {
                     A Comprehensive Overview of Advance Techniques, Applications
                     and Challenges in Data Science
                   </h1>
-                  <p className="pt-2 text-[16px]">Author: Rajat Pawar</p>
+                  <p className="pt-2 text-[16px]">Authors: Rajat Pawar</p>
                   <p className="text-[16px]">Published on: 16 Apr 2024</p>
                 </div>
 
@@ -165,7 +167,7 @@ export default function Archives() {
                     and Opportunities
                   </h1>
                   <p className="pt-2 text-[16px]">
-                    Author: Prem Borkar, Yash Mukherjee
+                    Authors: Prem Borkar, Yash Mukherjee
                   </p>
                   <p className="text-[16px]">Published on: 13 Apr 2024</p>
                 </div>
