@@ -29,8 +29,10 @@ export default function Contact() {
                 </div>
                 <hr />
                 <p className="pt-4 text-lg pb-6">
-                  Ingenious Research Journal for Technological Advancements in
-                  Engineering, Balaji Society,
+                  <span className="font-semibold">Dhiraj D Shirbhate</span>
+                  <br />
+                  IRJTAE, plot no: 2, Dhanwantari Nagar, Near Kale Layout,
+                  Wadgaon, Yavatmal-445001, MH
                   <br />
                   Yavatmal, Maharashtra
                 </p>
