@@ -97,7 +97,31 @@ export default function EditorialBoard() {
                   <p className="text-[16px]">
                     Email:{" "}
                     <span className="text-blue-700">
-                      prachind311993@gmail.com
+                      pndeshmukh@mitra.ac.in
+                    </span>{" "}
+                  </p>
+                </div>
+              </div>
+
+              <hr />
+
+              <div className=" sm:pl-[10%] flex justify-between items-center  ">
+                <img
+                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
+                  src="Images/Andhare.jpg"
+                  alt=""
+                />
+                <div className="text-left w-[70%]">
+                  <h1 className="text-2xl pb-2">Prof. C V Andhare</h1>
+                  <h1 className="text-[16px]">
+                    Head of Department, <br /> Dept. of Computer Engineering,{" "}
+                    <br />
+                    Government College of Engineering, Yavatmal, Maharashtra
+                  </h1>{" "}
+                  <p className="text-[16px]">
+                    Email:{" "}
+                    <span className="text-blue-700">
+                      chetanandhare@gmail.com
                     </span>{" "}
                   </p>
                 </div>
