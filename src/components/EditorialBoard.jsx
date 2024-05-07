@@ -66,7 +66,7 @@ export default function EditorialBoard() {
                   <h1 className="text-2xl pb-2">Dr. Amol G. Dikundwar</h1>
                   <h1 className="text-[16px]">
                     Assistant Professor, <br />
-                    National Institute of Phamaceutical Education and Research,
+                    National Institute of Pharmaceutical Education and Research,
                     Hyderabad <br />
                     PhD, IISC Banglore
                   </h1>
@@ -123,6 +123,30 @@ export default function EditorialBoard() {
                     <span className="text-blue-700">
                       andhare.chetan@gcoey.ac.in
                     </span>{" "}
+                  </p>
+                </div>
+              </div>
+
+              <hr />
+
+              <div className=" sm:pl-[10%] flex justify-between items-center  ">
+                <img
+                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
+                  src="Images/sunil.jpg"
+                  alt=""
+                />
+                <div className="text-left w-[70%]">
+                  <h1 className="text-2xl pb-2">Dr. Sunil R. Gupta</h1>
+                  <h1 className="text-[16px]">
+                    Ph.D (Computer Science & Engineering) <br />
+                    Assistant Professor, Dept. of Computer Science &
+                    Engineering, <br />
+                    Prof. Ram Meghe Institute of Technology and Research,
+                    Amravati MH
+                  </h1>{" "}
+                  <p className="text-[16px]">
+                    Email:{" "}
+                    <span className="text-blue-700">srgupta@mitra.ac.in</span>{" "}
                   </p>
                 </div>
               </div>
