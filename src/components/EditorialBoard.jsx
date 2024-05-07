@@ -121,7 +121,7 @@ export default function EditorialBoard() {
                   <p className="text-[16px]">
                     Email:{" "}
                     <span className="text-blue-700">
-                      chetanandhare@gmail.com
+                      andhare.chetan@gcoey.ac.in
                     </span>{" "}
                   </p>
                 </div>
