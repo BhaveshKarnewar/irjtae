@@ -50,82 +50,10 @@ export default function EditorialBoard() {
 
               {/* Board Members */}
               <hr />
+
               <h1 className="pb-2 text-xl font-semibold">
                 Advisory/Editorial/Reviewer Board Members
               </h1>
-
-              <hr />
-
-              <div className=" sm:pl-[10%] flex justify-between items-center  ">
-                <img
-                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
-                  src="Images/Amol.png"
-                  alt=""
-                />
-                <div className="text-left w-[70%]">
-                  <h1 className="text-2xl pb-2">Dr. Amol G. Dikundwar</h1>
-                  <h1 className="text-[16px]">
-                    Assistant Professor, <br />
-                    National Institute of Pharmaceutical Education and Research,
-                    Hyderabad <br />
-                    PhD, IISC Banglore
-                  </h1>
-                  <p className="text-[16px]">
-                    Email:{" "}
-                    <span className="text-blue-700">
-                      amol.dikundwar@niperhyd.ac.in
-                    </span>{" "}
-                  </p>
-                </div>
-              </div>
-
-              <hr />
-
-              <div className=" sm:pl-[10%] flex justify-between items-center  ">
-                <img
-                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
-                  src="Images/Prachi.jpg"
-                  alt=""
-                />
-                <div className="text-left w-[70%]">
-                  <h1 className="text-2xl pb-2">Prof. Prachi Deshmukh</h1>
-                  <h1 className="text-[16px]">
-                    Dept. of Computer Science, <br />
-                    Prof.Ram Meghe Institute of Technology and Research Badnera,
-                    Amravati, MH
-                  </h1>{" "}
-                  <p className="text-[16px]">
-                    Email:{" "}
-                    <span className="text-blue-700">
-                      pndeshmukh@mitra.ac.in
-                    </span>{" "}
-                  </p>
-                </div>
-              </div>
-
-              <hr />
-
-              <div className=" sm:pl-[10%] flex justify-between items-center  ">
-                <img
-                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
-                  src="Images/Andhare.jpg"
-                  alt=""
-                />
-                <div className="text-left w-[70%]">
-                  <h1 className="text-2xl pb-2">Prof. C V Andhare</h1>
-                  <h1 className="text-[16px]">
-                    Head of Department, <br /> Dept. of Computer Engineering,{" "}
-                    <br />
-                    Government College of Engineering, Yavatmal, Maharashtra
-                  </h1>{" "}
-                  <p className="text-[16px]">
-                    Email:{" "}
-                    <span className="text-blue-700">
-                      andhare.chetan@gcoey.ac.in
-                    </span>{" "}
-                  </p>
-                </div>
-              </div>
 
               <hr />
 
@@ -156,14 +84,87 @@ export default function EditorialBoard() {
               <div className=" sm:pl-[10%] flex justify-between items-center  ">
                 <img
                   className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
+                  src="Images/Amol.png"
+                  alt=""
+                />
+                <div className="text-left w-[70%]">
+                  <h1 className="text-2xl pb-2">Dr. Amol G. Dikundwar</h1>
+                  <h1 className="text-[16px]">
+                    PhD (IISC Banglore)
+                    <br />
+                    Assistant Professor, <br />
+                    National Institute of Pharmaceutical Education and Research,
+                    Hyderabad
+                  </h1>
+                  <p className="text-[16px]">
+                    Email:{" "}
+                    <span className="text-blue-700">
+                      amol.dikundwar@niperhyd.ac.in
+                    </span>{" "}
+                  </p>
+                </div>
+              </div>
+
+              <hr />
+
+              <div className=" sm:pl-[10%] flex justify-between items-center  ">
+                <img
+                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
+                  src="Images/Andhare.jpg"
+                  alt=""
+                />
+                <div className="text-left w-[70%]">
+                  <h1 className="text-2xl pb-2">Prof. C V Andhare</h1>
+                  <h1 className="text-[16px]">
+                    Head of Department, <br /> Dept. of Computer Engineering,{" "}
+                    <br />
+                    Government College of Engineering, Yavatmal, Maharashtra
+                  </h1>{" "}
+                  <p className="text-[16px]">
+                    Email:{" "}
+                    <span className="text-blue-700">
+                      andhare.chetan@gcoey.ac.in
+                    </span>{" "}
+                  </p>
+                </div>
+              </div>
+              <hr />
+
+              <div className=" sm:pl-[10%] flex justify-between items-center  ">
+                <img
+                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
+                  src="Images/Prachi.jpg"
+                  alt=""
+                />
+                <div className="text-left w-[70%]">
+                  <h1 className="text-2xl pb-2">Prof. Prachi Deshmukh</h1>
+                  <h1 className="text-[16px]">
+                    Dept. of Computer Science, <br />
+                    Prof.Ram Meghe Institute of Technology and Research Badnera,
+                    Amravati, MH
+                  </h1>{" "}
+                  <p className="text-[16px]">
+                    Email:{" "}
+                    <span className="text-blue-700">
+                      pndeshmukh@mitra.ac.in
+                    </span>{" "}
+                  </p>
+                </div>
+              </div>
+
+              <hr />
+
+              <div className=" sm:pl-[10%] flex justify-between items-center  ">
+                <img
+                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
                   src="Images/ShreyashK.jpeg"
                   alt=""
                 />
                 <div className="text-left w-[70%]">
                   <h1 className="text-2xl pb-2">Ar. Shreyash S. Karnewar</h1>
                   <h1 className="text-[16px]">
-                    Architect, <br />
-                    Academy of Architecture, Mumbai (2017-22)
+                    B. Arch (Academy of Architecture, Mumbai) <br />
+                    Architect, SSK Spaces.
                   </h1>{" "}
                   <p className="text-[16px]">
                     Email:{" "}

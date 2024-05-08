@@ -73,16 +73,13 @@ export default function SubmitPaperOnline() {
                   placeholder="Enter your abstract here..."
                 />
               </div>
-              <div className="pb-4">
+              <div className="pb-4 hidden">
                 <label>
                   <p className="inline-block w-[25%]">
                     Country <span className="text-red-600 text-xl">*</span>
                   </p>
                 </label>
-                <select
-                  className="w-[20%] h-[40px] px-4 rounded-md bg-gray-100 border-[1px] border-gray-400"
-                  required
-                >
+                <select className=" w-[20%] h-[40px] px-4 rounded-md bg-gray-100 border-[1px] border-gray-400">
                   <option className="text-gray-400" value="" disabled selected>
                     Choose one
                   </option>
@@ -112,21 +109,25 @@ export default function SubmitPaperOnline() {
               <hr />
               <div className="grid grid-cols-4 gap-6 ">
                 <input
+                  required
                   type="text"
                   placeholder="Author name"
                   className="col-span-1 rounded-md p-1  text-lg  pl-2 bg-gray-100 border-[1px] border-gray-400"
                 />
                 <input
+                  required
                   type="text"
                   placeholder="Author email"
                   className="col-span-1 rounded-md p-1 text-lg  pl-2 bg-gray-100 border-[1px] border-gray-400"
                 />
                 <input
+                  required
                   type="number"
                   placeholder="Contact number"
                   className="col-span-1 rounded-md p-1 text-lg  pl-2 bg-gray-100 border-[1px] border-gray-400 "
                 />
                 <input
+                  required
                   type="text"
                   placeholder="College/institute"
                   className="col-span-1 rounded-md p-1 text-lg  pl-2 bg-gray-100 border-[1px] border-gray-400"

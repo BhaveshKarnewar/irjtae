@@ -163,7 +163,7 @@ export default function Home() {
               <p className="pl-6">__________</p>
 
               <ul className=" pt-4 pl-12 pr-12 text-[16px] list-disc text-justify grid gap-2">
-                <li>Call for Papers, (For Issue 2) Last date 31 May 2024. </li>
+                <li>Call for Papers, (For Issue 2) Last date: 31 May-2024. </li>
                 <li>
                   Issue 1, April-2024 articles are published.{" "}
                   <NavLink to="/Archives" className="text-blue-600">
