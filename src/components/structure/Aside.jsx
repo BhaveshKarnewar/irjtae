@@ -82,7 +82,8 @@ export default function Aside() {
           </div>
           <div className="bg-blue-200 rounded-lg p-4 grid gap-2 text-[18px] font-semibold">
             <NavLink to="/EditorialBoard">{icon}Editorial Board</NavLink>
-            <NavLink to="/About">{icon}About us </NavLink>
+
+            <NavLink to="/JoinAsReviewer">{icon}Join as Reviewer</NavLink>
 
             <p className="hidden">
               {icon}

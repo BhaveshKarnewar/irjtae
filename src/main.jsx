@@ -19,6 +19,7 @@ import Conference from "./components/Conference.jsx";
 import About from "./components/About.jsx";
 import EditorialBoard from "./components/EditorialBoard.jsx";
 import Contact from "./components/Contact.jsx";
+import JoinAsReviewer from "./components/JoinAsReviewer.jsx";
 // about info components
 import PeerReviewProcess from "./components/aboutInfo/PeerReviewProcess.jsx";
 import PrivacyPolicies from "./components/aboutInfo/PrivacyPolicies.jsx";
@@ -43,6 +44,7 @@ const router = createBrowserRouter(
       <Route path="/Conference" element={<Conference />}></Route>
       <Route path="/About" element={<About />}></Route>
       <Route path="/Contact" element={<Contact />}></Route>
+      <Route path="/JoinAsReviewer" element={<JoinAsReviewer />}></Route>
 
       {/* About info components */}
       <Route path="/EditorialBoard" element={<EditorialBoard />}></Route>
