@@ -37,8 +37,8 @@ export default function EditorialBoard() {
                   <div className="text-left w-[70%]">
                     <h1 className="text-xl pb-2">Prof. Dhiraj D. Shirbhate</h1>
                     <h1 className="text-[16px]">
-                      Dept of Computer Engineering , <br />
-                      Government college of Engineering, Yavatmal
+                      Dept of Computer Engineering, <br />
+                      Government college of Engineering, Yavatmal, MH
                     </h1>
                     <p className="text-[16px]">
                       Email:{" "}
@@ -52,7 +52,7 @@ export default function EditorialBoard() {
               <hr />
 
               <h1 className="pb-2 text-xl font-semibold">
-                Advisory/Editorial/Reviewer Board Members
+                Advisory/ Editorial/ Reviewer Board Members
               </h1>
 
               <hr />
@@ -70,7 +70,7 @@ export default function EditorialBoard() {
                     Assistant Professor, Dept. of Computer Science &
                     Engineering, <br />
                     Prof. Ram Meghe Institute of Technology and Research,
-                    Amravati MH
+                    Amravati, MH
                   </h1>{" "}
                   <p className="text-[16px]">
                     Email:{" "}
@@ -118,7 +118,7 @@ export default function EditorialBoard() {
                   <h1 className="text-[16px]">
                     Head of Department, <br /> Dept. of Computer Engineering,{" "}
                     <br />
-                    Government College of Engineering, Yavatmal, Maharashtra
+                    Government College of Engineering, Yavatmal, MH
                   </h1>{" "}
                   <p className="text-[16px]">
                     Email:{" "}
@@ -140,13 +140,40 @@ export default function EditorialBoard() {
                   <h1 className="text-2xl pb-2">Prof. Prachi Deshmukh</h1>
                   <h1 className="text-[16px]">
                     Dept. of Computer Science, <br />
-                    Prof.Ram Meghe Institute of Technology and Research Badnera,
-                    Amravati, MH
+                    Prof. Ram Meghe Institute of Technology and Research
+                    Badnera, Amravati, MH
                   </h1>{" "}
                   <p className="text-[16px]">
                     Email:{" "}
                     <span className="text-blue-700">
                       pndeshmukh@mitra.ac.in
+                    </span>{" "}
+                  </p>
+                </div>
+              </div>
+
+              <hr />
+
+              <div className=" sm:pl-[10%] flex justify-between items-center  ">
+                <img
+                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
+                  src="Images/SamratThorat.jpeg"
+                  alt=""
+                />
+                <div className="text-left w-[70%]">
+                  <h1 className="text-2xl pb-2">Prof. Samrat S. Thorat </h1>
+                  <h1 className="text-[16px]">
+                    M.E. (Digital Electronics) <br />
+                    Head of Department,
+                    <br />
+                    Dept. of Electronics And Telecommunication,
+                    <br />
+                    Government College of Engineering, Yavatmal, MH
+                  </h1>{" "}
+                  <p className="text-[16px]">
+                    Email:{" "}
+                    <span className="text-blue-700">
+                      thorat.samrat@gcoey.ac.in
                     </span>{" "}
                   </p>
                 </div>
@@ -197,27 +224,6 @@ export default function EditorialBoard() {
                 </div>
               </div>
 
-              <hr />
-              <div className=" sm:pl-[10%] flex justify-between items-center  ">
-                <img
-                  className="h-[90px] w-[90px] sm:h-[120px] sm:w-[120px] rounded-full border-[2px] border-black"
-                  src="Images/Pranav.jpg"
-                  alt=""
-                />
-                <div className="text-left w-[70%]">
-                  <h1 className="text-2xl pb-2">Mr. Pranav P. Purankar</h1>
-                  <h1 className="text-[16px]">
-                    Software Engineer <br />
-                    Founder- Stealth Mode
-                  </h1>
-                  <p className="text-[16px]">
-                    Email:{" "}
-                    <span className="text-blue-700">
-                      pranav.purankar@gmail.com
-                    </span>{" "}
-                  </p>
-                </div>
-              </div>
               <hr />
             </div>
           </div>
