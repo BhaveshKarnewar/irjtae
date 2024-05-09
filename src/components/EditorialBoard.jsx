@@ -189,6 +189,10 @@ export default function EditorialBoard() {
                 <div className="text-left w-[70%]">
                   <h1 className="text-2xl pb-2">Ar. Shreyash S. Karnewar</h1>
                   <h1 className="text-[16px]">
+                    (Managing Editor - Ingenious Research Journal
+                    <br />
+                    For Technological Advancements In Engineering)
+                    <br />
                     B. Arch (Academy of Architecture, Mumbai) <br />
                     Architect, SSK Spaces.
                   </h1>{" "}
