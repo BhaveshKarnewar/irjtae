@@ -114,7 +114,7 @@ export default function EditorialBoard() {
                   alt=""
                 />
                 <div className="text-left w-[70%]">
-                  <h1 className="text-2xl pb-2">Prof. C V Andhare</h1>
+                  <h1 className="text-2xl pb-2">Prof. Chetan V. Andhare</h1>
                   <h1 className="text-[16px]">
                     Head of Department, <br /> Dept. of Computer Engineering,{" "}
                     <br />
@@ -163,7 +163,6 @@ export default function EditorialBoard() {
                 <div className="text-left w-[70%]">
                   <h1 className="text-2xl pb-2">Prof. Samrat S. Thorat </h1>
                   <h1 className="text-[16px]">
-                    M.E. (Digital Electronics) <br />
                     Head of Department,
                     <br />
                     Dept. of Electronics And Telecommunication,
