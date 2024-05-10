@@ -146,7 +146,7 @@ export default function Archives() {
                     and Challenges in Data Science
                   </h1>
                   <p className="pt-2 text-[16px]">Authors: Rajat Pawar</p>
-                  <p className="text-[16px]">Published on: 16 Apr 2024</p>
+                  <p className="text-[16px]">Published on: 12 Apr 2024</p>
                 </div>
 
                 <a
@@ -169,7 +169,7 @@ export default function Archives() {
                   <p className="pt-2 text-[16px]">
                     Authors: Prem Borkar, Yash Mukherjee
                   </p>
-                  <p className="text-[16px]">Published on: 13 Apr 2024</p>
+                  <p className="text-[16px]">Published on: 12 Apr 2024</p>
                 </div>
 
                 <a
