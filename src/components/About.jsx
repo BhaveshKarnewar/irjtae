@@ -50,16 +50,16 @@ export default function About() {
               {" "}
               <h1 className="text-xl font-semibold">About :</h1>
               <ul className="pt-6 grid gap-2 text-lg pl-6 list-disc font-semibold">
-                <li className="hover:text-blue-800 hover:scale-105 transition duration-500">
+                <li className="text-blue-800 hover:scale-105 transition duration-500">
                   <NavLink to="/PeerReviewProcess">Peer Review Process</NavLink>
                 </li>
-                <li className="hover:text-blue-800 hover:scale-105 transition duration-500">
+                <li className="text-blue-800 hover:scale-105 transition duration-500">
                   <NavLink to="/PrivacyPolicies">Privacy Policies</NavLink>
                 </li>
-                <li className="hover:text-blue-800 hover:scale-105 transition duration-500">
+                <li className="text-blue-800 hover:scale-105 transition duration-500">
                   <NavLink to="/PublicationEthics">Publication Ethics</NavLink>
                 </li>
-                <li className="hover:text-blue-800 hover:scale-105 transition duration-500">
+                <li className="text-blue-800 hover:scale-105 transition duration-500">
                   <NavLink to="/TermsAndConditions">
                     Terms And Conditions
                   </NavLink>
