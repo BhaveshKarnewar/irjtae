@@ -25,14 +25,14 @@ export default function Contact() {
               <div className="sm:col-span-1 border-2 border-gray-300 rounded-lg p-4 text-center ">
                 <div className="text-center text-3xl pb-4">
                   {" "}
-                  <FontAwesomeIcon icon={faLocationDot} />
+                  <p className="text-xl font-semibold">Publisher Details</p>
                 </div>
                 <hr />
                 <p className="pt-4 text-lg pb-6">
                   <span className="font-semibold">Dhiraj D. Shirbhate</span>
                   <br />
-                  IRJTAE, plot no: 2, Dhanwantari Nagar, Near Kale Layout,
-                  Wadgaon, Yavatmal-445001, MH
+                  IRJTAE, plot no: 2, Dhanwantari Society, Near Kale Layout,
+                  Arni Road, inside Ranapratap Gate, Yavatmal-445001, MH
                   <br />
                   Yavatmal, Maharashtra
                 </p>
