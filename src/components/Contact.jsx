@@ -31,7 +31,7 @@ export default function Contact() {
                 <p className="pt-4 text-lg pb-6">
                   <span className="font-semibold">Dhiraj D. Shirbhate</span>
                   <br />
-                  plot no: 9, Dhanwantari Society, Near Kale Layout, Arni Road,
+                  Plot no: 9, Dhanwantari Society, Near Kale Layout, Arni Road,
                   inside Ranapratap Gate, Yavatmal-445001, MH
                   <br />
                   Yavatmal, Maharashtra
