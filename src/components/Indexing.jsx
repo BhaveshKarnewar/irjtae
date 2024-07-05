@@ -45,8 +45,7 @@ export default function Indexing() {
             <a href="#">
               <img
                 className="h-[160px] w-[230px]"
-                src="https://www.openaccess.nl/sites/www.openaccess.nl/files/documenten/open-access-logo-png-transparent.png"
-                alt=""
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijvab52o5JsWMbmGsFzOKKfoj1KtDKZZ_qQ&s"
               />
             </a>
             <a href="https://issuu.com/" target="_blank">

@@ -24,13 +24,14 @@ export default function Conference() {
               <div className="flex justify-between px-8 text-[16px]">
                 <div className="text-left w-[50%]">
                   <h1 className="font-semibold">
-                    NATIONAL CONFERENCE ON MECHANICAL AND AUTOMOBILE ENGINEERING
+                    ERCICA - EMERGING RESEARCH IN COMPUTING, INFORMATION,
+                    COMMUNICATION AND APPLICATIONS
                   </h1>
                   <p className="text-[16px]">
                     Attend here:
                     <a
                       className="text-blue-600"
-                      href="https://www.nationalconference.in/event/index.php?id=2482052"
+                      href="https://www.ercica.com/"
                       target="_blank"
                     >
                       Link
@@ -38,7 +39,7 @@ export default function Conference() {
                   </p>
                 </div>
 
-                <p>26 May 2024</p>
+                <p>18 July 2024</p>
                 <p>Banglore, India</p>
               </div>
               <hr />
@@ -46,90 +47,85 @@ export default function Conference() {
               <div className="flex justify-between px-8 text-[16px]">
                 <div className="text-left w-[50%]">
                   <h1 className="font-semibold">
-                    INTERNATIONAL CONFERENCE ON SCIENCE TECHNOLOGY AND
-                    MANAGEMENT
+                    NATIONAL CONFERENCE ON ADVANCED COMPUTER SCIENCE AND
+                    INFORMATION TECHNOLOGY
                   </h1>
                   <p className="text-[16px]">
                     Attend here:
                     <a
                       target="_blank"
                       className="text-blue-600"
-                      href="https://www.sfe.net.in/conf/index.php?id=2479230"
+                      href="https://www.nationalconference.in/event/index.php?id=2636740"
                     >
                       Link
                     </a>
                   </p>
                 </div>
 
-                <p>01 June 2024</p>
+                <p>20 July 2024</p>
                 <p>Pune, India</p>
               </div>
               <hr />
               <div className="flex justify-between px-8 text-[16px]">
                 <div className="text-left w-[50%]">
                   <h1 className="font-semibold">
-                    NATIONAL CONFERENCE ON ADVANCES IN ENGINEERING AND
-                    TECHNOLOGY
+                    INTERNATIONAL CONFERENCE ON ENGINEERING & TECHNOLOGY
                   </h1>
                   <p className="text-[16px]">
                     Attend here:
                     <a
                       target="_blank"
                       className="text-blue-600"
-                      href="https://www.nationalconference.in/event/index.php?id=2482227"
+                      href="https://www.sfe.net.in/conf/index.php?id=2630118"
                     >
                       Link
                     </a>
                   </p>
                 </div>
 
-                <p>08 June 2024</p>
-                <p className="">
-                  Bhubaneswar,
-                  <br /> India
-                </p>
+                <p>03 August 2024</p>
+                <p className="">Noida, India</p>
               </div>
               <hr />
               <div className="flex justify-between px-8 text-[16px]">
                 <div className="text-left w-[50%]">
                   <h1 className="font-semibold">
-                    NATIONAL CONFERENCE ON INTERNET OF THINGS
+                    NATIONAL CONFERENCE ON COMPUTING AND ELECTRONICS ENGINEERING
                   </h1>
                   <p className="text-[16px]">
                     Attend here:
                     <a
                       target="_blank"
                       className="text-blue-600"
-                      href="https://www.nationalconference.in/event/index.php?id=2482218"
+                      href="https://www.nationalconference.in/event/index.php?id=2637148"
                     >
                       Link
                     </a>
                   </p>
                 </div>
 
-                <p>09 June 2024 </p>
+                <p>11 August 2024 </p>
                 <p> Raipur, India</p>
               </div>
               <hr />
               <div className="flex justify-between px-8 text-[16px]">
                 <div className="text-left w-[50%]">
                   <h1 className="font-semibold">
-                    INTERNATIONAL CONFERENCE ON COMPUTATIONAL INTELLIGENCE AND
-                    COMMUNICATION NETWORKS
+                    INTERNATIONAL CONFERENCE ON ENGINEERING & TECHNOLOGY
                   </h1>
                   <p className="text-[16px]">
                     Attend here:
                     <a
                       target="_blank"
                       className="text-blue-600"
-                      href="https://nier.in//conf/index.php?id=2479993"
+                      href="http://nier.in/conf/index.php?id=2635350"
                     >
                       Link
                     </a>
                   </p>
                 </div>
 
-                <p>15 June 2024 </p>
+                <p>24 August 2024 </p>
                 <p> Goa, India</p>
               </div>
               <hr />

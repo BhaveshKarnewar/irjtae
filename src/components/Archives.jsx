@@ -11,7 +11,7 @@ export default function Archives() {
 
           <div className="bg-white rounded-lg px-6 py-8 border-[1px] border-gray-300 text-center shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
             <h2 className="text-xl font-semibold pb-6">
-              Volume 1, Issue 1, April 2024
+              Volume 1, Issue 1, April-May 2024
             </h2>
 
             {/* index srNo,Paper,View */}
@@ -35,7 +35,7 @@ export default function Archives() {
                   <p className="pt-2 text-[16px]">
                     Authors: Parth Thakare, Priyanshu Hamand
                   </p>
-                  <p className="text-[16px]">Published on: 28 Apr 2024</p>
+                  <p className="text-[16px]">Published on: 28 May 2024</p>
                 </div>
 
                 <a
@@ -60,7 +60,7 @@ export default function Archives() {
                   <p className="pt-2 text-[16px]">
                     Authors: Bhavesh Karnewar, Prof. Dhiraj D. Shirbhate
                   </p>
-                  <p className="text-[16px]">Published on: 25 Apr 2024</p>
+                  <p className="text-[16px]">Published on: 22 May 2024</p>
                 </div>
 
                 <a
@@ -81,7 +81,7 @@ export default function Archives() {
                     Comprehensive Review
                   </h1>
                   <p className="pt-2 text-[16px]">Authors: Aman Deepak Yadav</p>
-                  <p className="text-[16px]">Published on: 24 Apr 2024</p>
+                  <p className="text-[16px]">Published on: 07 May 2024</p>
                 </div>
 
                 <a
@@ -102,7 +102,7 @@ export default function Archives() {
                     Technological Innovations
                   </h1>
                   <p className="pt-2 text-[16px]">Authors: Shreyash Purankar</p>
-                  <p className="text-[16px]">Published on: 24 Apr 2024</p>
+                  <p className="text-[16px]">Published on: 24 April 2024</p>
                 </div>
 
                 <a
@@ -125,7 +125,7 @@ export default function Archives() {
                   <p className="pt-2 text-[16px]">
                     Authors: Atal Dubey, Khushi Chaturkar
                   </p>
-                  <p className="text-[16px]">Published on: 15 Apr 2024</p>
+                  <p className="text-[16px]">Published on: 15 April 2024</p>
                 </div>
 
                 <a
@@ -146,7 +146,7 @@ export default function Archives() {
                     and Challenges in Data Science
                   </h1>
                   <p className="pt-2 text-[16px]">Authors: Rajat Pawar</p>
-                  <p className="text-[16px]">Published on: 12 Apr 2024</p>
+                  <p className="text-[16px]">Published on: 12 April 2024</p>
                 </div>
 
                 <a
@@ -169,7 +169,7 @@ export default function Archives() {
                   <p className="pt-2 text-[16px]">
                     Authors: Prem Borkar, Yash Mukherjee
                   </p>
-                  <p className="text-[16px]">Published on: 12 Apr 2024</p>
+                  <p className="text-[16px]">Published on: 12 April 2024</p>
                 </div>
 
                 <a
