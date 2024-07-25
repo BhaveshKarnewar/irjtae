@@ -117,7 +117,7 @@ export default function Home() {
                   <div className="flex text-left pl-12 py-1">
                     <p className="w-[40%]">Address</p>
                     <p className="w-[55%] text-blue-800">
-                      c/o D S Shirbhate, Plot no:9, Dhanwantari Society, Kale
+                      c/o D S Shirbhate, Plot no: 9, Dhanwantari Society, Kale
                       layout, Arni Road, inside Ranapratap gate,
                       Yavatmal-445001, Yavatmal, Maharashtra
                     </p>

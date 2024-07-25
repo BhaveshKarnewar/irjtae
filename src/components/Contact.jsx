@@ -31,7 +31,7 @@ export default function Contact() {
                 <p className="pt-4 text-lg pb-6">
                   <span className="font-semibold">Dhiraj D. Shirbhate</span>
                   <br />
-                  c/o D S Shirbhate, Plot no:9, Dhanwantari Society, Kale
+                  c/o D S Shirbhate, Plot no: 9, Dhanwantari Society, Kale
                   layout, Arni Road, inside Ranapratap gate,
                   <br /> Yavatmal-445001
                   <br />
