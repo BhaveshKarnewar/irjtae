@@ -24,12 +24,11 @@ export default function Header() {
             </p>
           </div>
 
-          <div className="text-black hidden sm:block sm:invisible w-[100px]">
-            {" "}
-            ISSN : Pending
-          </div>
+          <div className="text-black text-lg">e-ISSN : 3048-5878</div>
         </div>
-        <div className="w-[90%] bg-blue-300 p-2 mb-8 mt-6 sm:mt-2 rounded-full text-xl shadow-2xl">
+
+        {/* NAVBAR */}
+        <div className="w-[90%] hidden sm:block bg-blue-300 p-2 mb-8 mt-6 sm:mt-2 rounded-full text-xl shadow-2xl">
           <div className="sm:hidden pl-4 sm:pl-8 sm:py-4 font-semibold">
             IRJTAE
           </div>
