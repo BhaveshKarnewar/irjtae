@@ -15,7 +15,7 @@ export default function Fee() {
 
           <div className="bg-white rounded-lg px-8 py-12 border-[1px] border-gray-300 text-center shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
             <h2 className="text-3xl font-semibold pb-12 hidden">
-              RS. 499 FOR INDIAN AUTHORS and 20$ FOR FOREIGN AUTHORS
+              RS. 999 FOR INDIAN AUTHORS and 25$ FOR FOREIGN AUTHORS
             </h2>
 
             <h2 className="text-left pb-4 text-xl font-semibold">
@@ -46,7 +46,7 @@ export default function Fee() {
                     icon={faIndianRupeeSign}
                     className="text-5xl pr-3"
                   />
-                  499
+                  999
                 </h1>
                 <p className="pt-4 pb-10 text-lg hidden">Research Paper</p>
 
@@ -57,11 +57,11 @@ export default function Fee() {
                 <ul className="text-lg grid gap-2 py-8">
                   <li>
                     {" "}
-                    <strong>499 Rs.</strong> publication fees per article
+                    <strong>999 Rs.</strong> publication fees per article
                   </li>
                   <li className="hidden">
                     {" "}
-                    <strong>20 $</strong> for Foreign Author
+                    <strong>25 $</strong> for Foreign Author
                   </li>
                   <li>
                     {" "}
