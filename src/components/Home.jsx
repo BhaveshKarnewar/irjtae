@@ -73,7 +73,7 @@ export default function Home() {
                   <div className="flex text-left pl-12 py-1">
                     <p className="w-[40%]">Cheif Editor</p>
                     <p className="w-[55%] text-blue-800">
-                      Prof. Dhiraj D Shirbhate
+                      Prof. D. D. Shirbhate
                     </p>
                   </div>
                   <hr />
