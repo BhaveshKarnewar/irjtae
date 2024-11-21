@@ -13,7 +13,7 @@ export default function CallForPaper() {
           <div className="bg-white rounded-lg px-8 py-8 border-[1px] border-gray-300 text-center  shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px] grid gap-4">
             <div className="flex justify-between text-lg">
               <p className="pl-12 font-semibold">SUBMISSION LAST DATE</p>
-              <p className="w-[40%]">November - 2024</p>
+              <p className="w-[40%]">November 2024</p>
             </div>
             <hr />
             <div className="flex justify-between text-lg">
