@@ -27,7 +27,7 @@ export default function CallForPaper() {
             </div>
             <hr />
 
-            <NavLink to="/SubmitPaperOnline">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSf-UB-jv4X3wiSyfMWXUMg8ookPsp_1BnS9u7B2RraeiLsC0g/viewform?usp=sf_link">
               <button
                 type="submit"
                 className="py-2 px-4 hover:bg-blue-800   hover:scale-110 transition duration-500 bg-blue-500 text-xl text-white rounded-lg mt-4
@@ -35,7 +35,7 @@ export default function CallForPaper() {
               >
                 Submit your paper now
               </button>
-            </NavLink>
+            </a>
           </div>
         </div>
       </div>
