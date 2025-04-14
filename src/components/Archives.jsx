@@ -138,7 +138,7 @@ export default function Archives() {
               <div className="flex justify-between px-12 text-[16px]">
                 <p id="srno">6</p>
                 <div className="text-left w-[60%]">
-                  <h1 className="font-semibold">Test Name</h1>
+                  <h1 className="font-semibold">Test Name "Beta Update"</h1>
                   <p className="pt-2 text-[12px]">
                     <span className="font-semibold">Authors:</span> Test authors
                   </p>
