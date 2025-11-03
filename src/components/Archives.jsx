@@ -14,7 +14,7 @@ export default function Archives() {
           {/* VOL-2, ISSUE-1 */}
           <div className="bg-white rounded-lg px-6 py-8 border-[1px] border-gray-300 text-center shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
             <h2 className="text-xl font-semibold pb-6">
-              Volume 2, Issue 1, September-November 2024
+              Volume 2, Issue 1, September-November 2025
             </h2>
 
             {/* index srNo,Paper,View */}
@@ -58,12 +58,12 @@ export default function Archives() {
                 <p id="srno">2</p>
                 <div className="text-left w-[60%]">
                   <h1 className="font-semibold">
-                    Blockchain-Based Fund Management System For Indian Temples
+                    From Cryptocurrencies to Smart Contracts: The Evolution and
+                    Impact of Blockchain Technology
                   </h1>
                   <p className="pt-2 text-[12px]">
-                    <span className="font-semibold">Authors:</span> Saurabh
-                    Vaidya, Rajnandan Ray, Shreya Shirbhate, Gaurav Rai, Prof.
-                    Chetan Andhare
+                    <span className="font-semibold">Authors:</span> Bhavesh
+                    Karnewar, Prof. Dhiraj D. Shirbhate
                   </p>
                   {/* <p className="text-[12px]">Published on: 22 May 2024</p> */}
                 </div>
@@ -71,7 +71,7 @@ export default function Archives() {
                 <a
                   className="text-blue-600
                 "
-                  href="#"
+                  href="Papers/Volume_1/IRJTAE_V1A2.pdf"
                   target="_blank"
                 >
                   View
