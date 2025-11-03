@@ -11,6 +11,75 @@ export default function Archives() {
 
           {/* Here you can add blocks which will hold papers */}
 
+          {/* VOL-2, ISSUE-1 */}
+          <div className="bg-white rounded-lg px-6 py-8 border-[1px] border-gray-300 text-center shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
+            <h2 className="text-xl font-semibold pb-6">
+              Volume 2, Issue 1, September-November 2024
+            </h2>
+
+            {/* index srNo,Paper,View */}
+            <hr />
+            <div className="flex justify-between px-8 py-2 text-[16px] font-semibold">
+              <p>SR.No</p>
+              <p>Paper Name</p>
+              <p>View Paper</p>
+            </div>
+            <hr />
+
+            {/* Papers */}
+            <div id="paperCollection" className="grid gap-4 py-4">
+              <div className="flex justify-between px-12 text-[16px]">
+                <p>1</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Emotion Detector: Deep Learning Approaches For Human Emotion
+                    Recognition
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Komal
+                    Shegokar, Ketki Lokhande, Kartiki Yende, Ishwari Jumle,
+                    Dhanashree Ikhar, Ashish Mahalle
+                  </p>
+                </div>
+
+                <a
+                  className="text-blue-600
+                "
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_01.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">2</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Blockchain-Based Fund Management System For Indian Temples
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Saurabh
+                    Vaidya, Rajnandan Ray, Shreya Shirbhate, Gaurav Rai, Prof.
+                    Chetan Andhare
+                  </p>
+                  {/* <p className="text-[12px]">Published on: 22 May 2024</p> */}
+                </div>
+
+                <a
+                  className="text-blue-600
+                "
+                  href="#"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+            </div>
+          </div>
+
           {/* VOL-1, ISSUE-2 */}
           <div className="bg-white rounded-lg px-6 py-8 border-[1px] border-gray-300 text-center shadow-[rgba(0,_0,_0,_0.4)_0px_30px_90px]">
             <h2 className="text-xl font-semibold pb-6">
