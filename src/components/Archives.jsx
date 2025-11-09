@@ -478,7 +478,7 @@ export default function Archives() {
                 <a
                   className="text-blue-600
                 "
-                  href="#"
+                  href="Papers/Volume_1/issue2/paper_1.pdf"
                   target="_blank"
                 >
                   View
@@ -504,7 +504,7 @@ export default function Archives() {
                 <a
                   className="text-blue-600
                 "
-                  href="#"
+                  href="Papers/Volume_1/issue2/paper_2.pdf"
                   target="_blank"
                 >
                   View
@@ -525,7 +525,11 @@ export default function Archives() {
                     Nishane, Prof. Chetan V. Andhare
                   </p>
                 </div>
-                <a className="text-blue-600" href="#" target="_blank">
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_1/issue2/paper_3.pdf"
+                  target="_blank"
+                >
                   View
                 </a>
               </div>
@@ -544,7 +548,11 @@ export default function Archives() {
                     Chetan Andhare
                   </p>
                 </div>
-                <a className="text-blue-600" href="#" target="_blank">
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_1/issue2/paper_4.pdf"
+                  target="_blank"
+                >
                   View
                 </a>
               </div>
@@ -562,7 +570,11 @@ export default function Archives() {
                     Onkar, Prof. Dhiraj D. Shirbhate
                   </p>
                 </div>
-                <a className="text-blue-600" href="#" target="_blank">
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_1/issue2/paper_5.pdf"
+                  target="_blank"
+                >
                   View
                 </a>
               </div>
@@ -571,14 +583,13 @@ export default function Archives() {
               <div className="flex justify-between px-12 text-[16px]">
                 <p id="srno">6</p>
                 <div className="text-left w-[60%]">
-                  <h1 className="font-semibold">Test Name "Beta Update"</h1>
-                  <p className="pt-2 text-[12px]">
-                    <span className="font-semibold">Authors:</span> Test authors
-                  </p>
+                  <h1 className="font-semibold">
+                    Smart File Manager: Your All-in-one File Management Solution
+                  </h1>
                 </div>
                 <a
                   className="text-blue-600"
-                  href="Papers/Volume_1/IRJTAE_V1A2.pdf"
+                  href="Papers/Volume_1/issue2/paper_6.pdf"
                   target="_blank"
                 >
                   View
@@ -589,14 +600,13 @@ export default function Archives() {
               <div className="flex justify-between px-12 text-[16px]">
                 <p id="srno">7</p>
                 <div className="text-left w-[60%]">
-                  <h1 className="font-semibold">Test Name</h1>
-                  <p className="pt-2 text-[12px]">
-                    <span className="font-semibold">Authors:</span> Test authors
-                  </p>
+                  <h1 className="font-semibold">
+                    DevOps Enhanced Mock Test Web Application
+                  </h1>
                 </div>
                 <a
                   className="text-blue-600"
-                  href="Papers/Volume_1/IRJTAE_V1A2.pdf"
+                  href="Papers/Volume_1/issue2/paper_7.pdf"
                   target="_blank"
                 >
                   View
@@ -607,14 +617,13 @@ export default function Archives() {
               <div className="flex justify-between px-12 text-[16px]">
                 <p id="srno">8</p>
                 <div className="text-left w-[60%]">
-                  <h1 className="font-semibold">Test Name</h1>
-                  <p className="pt-2 text-[12px]">
-                    <span className="font-semibold">Authors:</span> Test authors
-                  </p>
+                  <h1 className="font-semibold">
+                    Real Time Sentiment Analysis Of Twitter Posts
+                  </h1>
                 </div>
                 <a
                   className="text-blue-600"
-                  href="Papers/Volume_1/IRJTAE_V1A2.pdf"
+                  href="Papers/Volume_1/issue2/paper_8.pdf"
                   target="_blank"
                 >
                   View
@@ -625,14 +634,13 @@ export default function Archives() {
               <div className="flex justify-between px-12 text-[16px]">
                 <p id="srno">9</p>
                 <div className="text-left w-[60%]">
-                  <h1 className="font-semibold">Test Name</h1>
-                  <p className="pt-2 text-[12px]">
-                    <span className="font-semibold">Authors:</span> Test authors
-                  </p>
+                  <h1 className="font-semibold">
+                    Land Auction Web Application (LAWA)
+                  </h1>
                 </div>
                 <a
                   className="text-blue-600"
-                  href="Papers/Volume_1/IRJTAE_V1A2.pdf"
+                  href="Papers/Volume_1/issue2/paper_9.pdf"
                   target="_blank"
                 >
                   View
@@ -643,14 +651,13 @@ export default function Archives() {
               <div className="flex justify-between px-12 text-[16px]">
                 <p id="srno">10</p>
                 <div className="text-left w-[60%]">
-                  <h1 className="font-semibold">Test Name</h1>
-                  <p className="pt-2 text-[12px]">
-                    <span className="font-semibold">Authors:</span> Test authors
-                  </p>
+                  <h1 className="font-semibold">
+                    Uniserve: Multi-Service Tech Platform
+                  </h1>
                 </div>
                 <a
                   className="text-blue-600"
-                  href="Papers/Volume_1/IRJTAE_V1A2.pdf"
+                  href="Papers/Volume_1/issue2/paper_10.pdf"
                   target="_blank"
                 >
                   View
@@ -661,14 +668,14 @@ export default function Archives() {
               <div className="flex justify-between px-12 text-[16px]">
                 <p id="srno">11</p>
                 <div className="text-left w-[60%]">
-                  <h1 className="font-semibold">Test Name</h1>
-                  <p className="pt-2 text-[12px]">
-                    <span className="font-semibold">Authors:</span> Test authors
-                  </p>
+                  <h1 className="font-semibold">
+                    Triglink: A Unified Platform For IoT Automation, Triggering,
+                    And Control
+                  </h1>
                 </div>
                 <a
                   className="text-blue-600"
-                  href="Papers/Volume_1/IRJTAE_V1A2.pdf"
+                  href="Papers/Volume_1/issue2/paper_11.pdf"
                   target="_blank"
                 >
                   View
@@ -679,14 +686,14 @@ export default function Archives() {
               <div className="flex justify-between px-12 text-[16px]">
                 <p id="srno">12</p>
                 <div className="text-left w-[60%]">
-                  <h1 className="font-semibold">Test Name</h1>
-                  <p className="pt-2 text-[12px]">
-                    <span className="font-semibold">Authors:</span> Test authors
-                  </p>
+                  <h1 className="font-semibold">
+                    Stress Detection In IT Professionals Using Image Processing
+                    And Machine Learning
+                  </h1>
                 </div>
                 <a
                   className="text-blue-600"
-                  href="Papers/Volume_1/IRJTAE_V1A2.pdf"
+                  href="Papers/Volume_1/issue2/paper_12.pdf"
                   target="_blank"
                 >
                   View
@@ -697,14 +704,14 @@ export default function Archives() {
               <div className="flex justify-between px-12 text-[16px]">
                 <p id="srno">13</p>
                 <div className="text-left w-[60%]">
-                  <h1 className="font-semibold">Test Name</h1>
-                  <p className="pt-2 text-[12px]">
-                    <span className="font-semibold">Authors:</span> Test authors
-                  </p>
+                  <h1 className="font-semibold">
+                    Shaping The Future Of Education With Voice-Activated
+                    Learning Systems
+                  </h1>
                 </div>
                 <a
                   className="text-blue-600"
-                  href="Papers/Volume_1/IRJTAE_V1A2.pdf"
+                  href="Papers/Volume_1/issue2/paper_13.pdf"
                   target="_blank"
                 >
                   View
@@ -715,14 +722,13 @@ export default function Archives() {
               <div className="flex justify-between px-12 text-[16px]">
                 <p id="srno">14</p>
                 <div className="text-left w-[60%]">
-                  <h1 className="font-semibold">Test Name</h1>
-                  <p className="pt-2 text-[12px]">
-                    <span className="font-semibold">Authors:</span> Test authors
-                  </p>
+                  <h1 className="font-semibold">
+                    Paris 2024 Olympic Dashboard In Power BI With Python
+                  </h1>
                 </div>
                 <a
                   className="text-blue-600"
-                  href="Papers/Volume_1/IRJTAE_V1A2.pdf"
+                  href="Papers/Volume_1/issue2/paper_14.pdf"
                   target="_blank"
                 >
                   View
@@ -733,14 +739,13 @@ export default function Archives() {
               <div className="flex justify-between px-12 text-[16px]">
                 <p id="srno">15</p>
                 <div className="text-left w-[60%]">
-                  <h1 className="font-semibold">Test Name</h1>
-                  <p className="pt-2 text-[12px]">
-                    <span className="font-semibold">Authors:</span> Test authors
-                  </p>
+                  <h1 className="font-semibold">
+                    Plantest: Machine Learning Based Leaf Disease Detector
+                  </h1>
                 </div>
                 <a
                   className="text-blue-600"
-                  href="Papers/Volume_1/IRJTAE_V1A2.pdf"
+                  href="Papers/Volume_1/issue2/paper_15.pdf"
                   target="_blank"
                 >
                   View
@@ -751,14 +756,13 @@ export default function Archives() {
               <div className="flex justify-between px-12 text-[16px]">
                 <p id="srno">16</p>
                 <div className="text-left w-[60%]">
-                  <h1 className="font-semibold">Test Name</h1>
-                  <p className="pt-2 text-[12px]">
-                    <span className="font-semibold">Authors:</span> Test authors
-                  </p>
+                  <h1 className="font-semibold">
+                    Cloud Insights With Power BI
+                  </h1>
                 </div>
                 <a
                   className="text-blue-600"
-                  href="Papers/Volume_1/IRJTAE_V1A2.pdf"
+                  href="Papers/Volume_1/issue2/paper_16.pdf"
                   target="_blank"
                 >
                   View
@@ -769,14 +773,13 @@ export default function Archives() {
               <div className="flex justify-between px-12 text-[16px]">
                 <p id="srno">17</p>
                 <div className="text-left w-[60%]">
-                  <h1 className="font-semibold">Test Name</h1>
-                  <p className="pt-2 text-[12px]">
-                    <span className="font-semibold">Authors:</span> Test authors
-                  </p>
+                  <h1 className="font-semibold">
+                    MindMesh - Connecting Ideas With AI-driven Precision
+                  </h1>
                 </div>
                 <a
                   className="text-blue-600"
-                  href="Papers/Volume_1/IRJTAE_V1A2.pdf"
+                  href="Papers/Volume_1/issue2/paper_17.pdf"
                   target="_blank"
                 >
                   View
@@ -787,14 +790,11 @@ export default function Archives() {
               <div className="flex justify-between px-12 text-[16px]">
                 <p id="srno">18</p>
                 <div className="text-left w-[60%]">
-                  <h1 className="font-semibold">Test Name</h1>
-                  <p className="pt-2 text-[12px]">
-                    <span className="font-semibold">Authors:</span> Test authors
-                  </p>
+                  <h1 className="font-semibold">Google Trends Peak Analyzer</h1>
                 </div>
                 <a
                   className="text-blue-600"
-                  href="Papers/Volume_1/IRJTAE_V1A2.pdf"
+                  href="Papers/Volume_1/issue2/paper_18.pdf"
                   target="_blank"
                 >
                   View
