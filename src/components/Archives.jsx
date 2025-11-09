@@ -441,7 +441,6 @@ export default function Archives() {
                   View
                 </a>
               </div>
-              <hr />
             </div>
           </div>
 
