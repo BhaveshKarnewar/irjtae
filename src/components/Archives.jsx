@@ -57,26 +57,391 @@ export default function Archives() {
               <div className="flex justify-between px-12 text-[16px]">
                 <p id="srno">2</p>
                 <div className="text-left w-[60%]">
-                  <h1 className="font-semibold">
-                    From Cryptocurrencies to Smart Contracts: The Evolution and
-                    Impact of Blockchain Technology
-                  </h1>
+                  <h1 className="font-semibold">Legal Document Summarizer</h1>
                   <p className="pt-2 text-[12px]">
-                    <span className="font-semibold">Authors:</span> Bhavesh
-                    Karnewar, Prof. Dhiraj D. Shirbhate
+                    <span className="font-semibold">Authors:</span> Mahesh
+                    Phalake, Joy Lonare, Abhishek Mande and Athrava Rakhunde
                   </p>
-                  {/* <p className="text-[12px]">Published on: 22 May 2024</p> */}
                 </div>
-
                 <a
-                  className="text-blue-600
-                "
-                  href="Papers/Volume_1/IRJTAE_V1A2.pdf"
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_002.pdf"
                   target="_blank"
                 >
                   View
                 </a>
               </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">3</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Library Management System: Review of QR Code Technology for
+                    Modernizing Library Operations
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Uday
+                    Khandare, Shivam Sharma, Shivaji Mule and Shreyash Meshram
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_003.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">4</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    TradeMonk – The Integrated Social Trading Platform
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Suhani
+                    Futane, Guarav Bawankar, Nayan Bhutada and Vishal Narwade
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_004.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">5</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Secure Chat App with End-To-End Encryption Using
+                    Post-Quantum Cryptography and AI-Based Anomaly Detection
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Sejal Pund,
+                    Pooja Rode, Sanchita Sande and Rutuja Tayade
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_005.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">6</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Legal Ease - A Review on Mobile-Based Platforms for Online
+                    Advocate Consultation
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Jagadish
+                    Rathod, Vedprasad Takey, Rohit Thakare and Om Suklikar
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_006.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">7</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Climate and Pollution Monitoring Platform
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Shreya
+                    Deshpande, Piyush Shirke, Ayush Kute and Rasika Sutavane
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_007.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">8</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    YouTube Analysis: Leveraging Machine Learning and
+                    Visualization for Intelligent Content Insights
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Sharada
+                    Namdev Bhagat, Neha Pandurang Bhokare, Tejaswi Rajeshpant
+                    Sawarkar and Aditya Nandkishor Ingale
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_008.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">9</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    A Multi-Agent Generative AI Framework for a Next-Generation
+                    Chat-GPT Clone with Self-Adaptive Memory and Multimodal
+                    Capabilities
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Anushka
+                    Chaturkar, Manav Dhaye, Sanjana Sutrave and Yash Dhoke
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_009.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">10</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Krishi AI: An Artificial Intelligence–Based Framework for
+                    Smart and Sustainable Agriculture
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Tejaswini
+                    Ghore, Rucha Raut, Punam Thakre and Gauri Wande
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_010.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">11</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Enhancing Healthcare Customer Support Using Agent-Based AI
+                    Chatbots
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Nikita
+                    Dahake, Tapasya Mendole, Akanksha Nandanwar and Kamini Patil
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_011.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">12</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Community Medicine Donation and Request System
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Samiksha
+                    Bobade, Prachi Dhande, Shreya Dike and Dhanshree Ghogare
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_012.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">13</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    AI Interview Web Application
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Sudarshan
+                    Tayde, Tejas Pokale, Samruddhi Gulhane and Laxmi Sudke
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_013.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">14</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Routelytics - A Smart Travel Assistant
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Nishar
+                    Sundar Chavan, Sharyu Tulsiram Bidwai, Gayatri Chandrakant
+                    Darane and Apeksha Ravindra Bhagat
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_014.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">15</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    PrepZone - A Review on Adaptive Online Platforms for
+                    Aptitude Preparation and Assessment
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Tanvi
+                    Shewale, Gayatri Rodge, Jagruti Somwanshi and Babita Narwade
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_015.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">16</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Snap Studio: AI-powered Image Generation and Enhancement
+                    Tool
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Vikas
+                    Kasolkar, Ayush Chavan, Fardin Chavan and Krushna Babhulkar
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_016.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">17</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Deepfake Detection System: A Review
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Sakshi
+                    Khode, Shruti Wadhekar, Yamini Babulkar and Mehwish Sheikh
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_017.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">18</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Business Analyst Agent – AI-driven Executive Insights
+                    Generator
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Rounak
+                    Arwar, Gauri Ingole, Rahul Jarad and Vivek Rekulwar
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_018.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">19</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Next-generation Library Management System
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Aditya
+                    Karbhal, Aniket Solanki, Sunil Bidve and Ansh Shahare
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_019.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
             </div>
           </div>
 
