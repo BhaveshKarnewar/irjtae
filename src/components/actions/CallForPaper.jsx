@@ -42,3 +42,22 @@ export default function CallForPaper() {
     </>
   );
 }
+
+<div className="flex justify-between px-12 text-[16px]">
+  <p id="srno">{index}</p>
+  <div className="text-left w-[60%]">
+    <h1 className="font-semibold">{PaperTitle}</h1>
+    <p className="pt-2 text-[12px]">
+      <span className="font-semibold">Authors:</span> {Authors}
+    </p>
+  </div>
+
+  <a
+    className="text-blue-600
+                "
+    href="Papers/Volume_1/IRJTAE_V1A2.pdf"
+    target="{PaperURL}"
+  >
+    View
+  </a>
+</div>;
