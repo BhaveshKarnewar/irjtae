@@ -60,7 +60,8 @@ export default function Archives() {
                   <h1 className="font-semibold">Legal Document Summarizer</h1>
                   <p className="pt-2 text-[12px]">
                     <span className="font-semibold">Authors:</span> Mahesh
-                    Phalake, Joy Lonare, Abhishek Mande and Athrava Rakhunde
+                    Macchindra Phalke, Joy Lonare, Abhishek Indrajeet Madne and
+                    Atharva Vinayakrao Rakhunde
                   </p>
                 </div>
                 <a
@@ -103,7 +104,7 @@ export default function Archives() {
                   </h1>
                   <p className="pt-2 text-[12px]">
                     <span className="font-semibold">Authors:</span> Suhani
-                    Futane, Guarav Bawankar, Nayan Bhutada and Vishal Narwade
+                    Futane, Gaurav Bawankar, Nayan Bhutada and Vishal Narwade
                   </p>
                 </div>
                 <a
@@ -430,7 +431,7 @@ export default function Archives() {
                   </h1>
                   <p className="pt-2 text-[12px]">
                     <span className="font-semibold">Authors:</span> Aditya
-                    Karbhal, Aniket Solanki, Sunil Bidve and Ansh Shahare
+                    Karbhal, Aniket Solanke, Sunil Bidve and Ansh Shahare
                   </p>
                 </div>
                 <a
