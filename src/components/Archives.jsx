@@ -442,6 +442,29 @@ export default function Archives() {
                   View
                 </a>
               </div>
+              <hr />
+
+              <div className="flex justify-between px-12 text-[16px]">
+                <p id="srno">20</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    A SMART PERSONAL FINANCE TRACKING SYSTEM FOR REAL-TIME
+                    EXPENSE MONITORING
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Bhushan
+                    Angaitkar, Tanvi Lohkar, Parth Udar, Avantika Rashatwar and
+                    Manoj P. Chokhande
+                  </p>
+                </div>
+                <a
+                  className="text-blue-600"
+                  href="Papers/Volume_2/Issue_1/IRJATE_V2I1_020.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
             </div>
           </div>
 
