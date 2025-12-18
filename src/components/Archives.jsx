@@ -454,7 +454,7 @@ export default function Archives() {
                   <p className="pt-2 text-[12px]">
                     <span className="font-semibold">Authors:</span> Bhushan
                     Angaitkar, Tanvi Lohkar, Parth Udar, Avantika Rashatwar and
-                    Manoj P. Chokhande
+                    Prof. Manoj P. Chokhande
                   </p>
                 </div>
                 <a
