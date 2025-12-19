@@ -448,8 +448,8 @@ export default function Archives() {
                 <p id="srno">20</p>
                 <div className="text-left w-[60%]">
                   <h1 className="font-semibold">
-                    A SMART PERSONAL FINANCE TRACKING SYSTEM FOR REAL-TIME
-                    EXPENSE MONITORING
+                    A smart personal finance tracking system for real-time
+                    expense monitoring
                   </h1>
                   <p className="pt-2 text-[12px]">
                     <span className="font-semibold">Authors:</span> Bhushan
