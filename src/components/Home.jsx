@@ -165,10 +165,12 @@ export default function Home() {
 
               <ul className=" pt-4 pl-12 pr-12 text-[16px] list-disc text-justify grid gap-2">
                 <li>
-                  Call for Papers, (For Issue 2) Last date: 31 July 2024.{" "}
+                  Call for Papers, (For Vol. 3 Issue 1) Last date: 31 March
+                  2026.
                 </li>
                 <li>
-                  Issue 1, April-May 2024 articles are published.{" "}
+                  Volume 2, Issue 1, September-November 2025 articles are
+                  published.
                   <NavLink to="/Archives" className="text-blue-600">
                     <span> </span>Read here.
                   </NavLink>
