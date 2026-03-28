@@ -47,7 +47,98 @@ export default function Archives() {
                   View
                 </a>
               </div>{" "}
-            </div>{" "}
+              <hr />
+              <div className="flex justify-between px-12 text-[16px]">
+                <p>2</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    FARMNEXIS+: A smart agriculture platform leveraging
+                    Blockchain
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Khushi S.
+                    Burbure, Likhita G. Parise, Falguni K. Barlawar, Sharvari A.
+                    Shirbhate, Pooja S. Biradar, Shrut S. Raut
+                  </p>
+                </div>
+
+                <a
+                  className="text-blue-600
+                "
+                  href="Papers/Volume_3/Issue_1/IRJTAE_V3I1_002.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>{" "}
+              <hr />
+              <div className="flex justify-between px-12 text-[16px]">
+                <p>3</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Smart water surface cleaning boat using mobile application
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Saniya N.
+                    Sheikh, Gayatri G. Wagh, Janhvi D. Lahane, Kunal G. Fukat,
+                    Prof. Dr. S. R. Shiledar
+                  </p>
+                </div>
+
+                <a
+                  className="text-blue-600
+                "
+                  href="Papers/Volume_3/Issue_1/IRJTAE_V3I1_003.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>{" "}
+              <hr />
+              <div className="flex justify-between px-12 text-[16px]">
+                <p>4</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">3D Scanner Machine</h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Ashwini
+                    Kolhe, Ankita Hendaskar, Disha Katkar, Vaishnavi Bhoyar, Dr.
+                    Shubhada Diwan
+                  </p>
+                </div>
+
+                <a
+                  className="text-blue-600
+                "
+                  href="Papers/Volume_3/Issue_1/IRJTAE_V3I1_004.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+              <div className="flex justify-between px-12 text-[16px]">
+                <p>5</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Smart energy meter for power theft detection
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Samiksha
+                    Bande, Mohit Gharote, Chetana Zade, Manaswi Nanhe, Dr. S. S.
+                    Thakare
+                  </p>
+                </div>
+
+                <a
+                  className="text-blue-600
+                "
+                  href="Papers/Volume_3/Issue_1/IRJTAE_V3I1_005.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+            </div>
           </div>
 
           {/* VOL-2, ISSUE-1 */}
