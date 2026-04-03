@@ -138,6 +138,74 @@ export default function Archives() {
                   View
                 </a>
               </div>
+              <hr />
+              <div className="flex justify-between px-12 text-[16px]">
+                <p>6</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">SprayCut Agro Rover</h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Anjali
+                    Dubey, Shravani Adsod, Shravani Gulhane, Devashri Gobare,
+                    Prof. S. R. Shiledar
+                  </p>
+                </div>
+
+                <a
+                  className="text-blue-600
+                "
+                  href="Papers/Volume_3/Issue_1/IRJTAE_V3I1_006.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+              <div className="flex justify-between px-12 text-[16px]">
+                <p>7</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Footstep Power Generation Using Piezoelectric Sensor{" "}
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Rutwik
+                    Gedam, Harshada Raut, Himanshu Bodkhe, Chetan Koram, Dr. S.
+                    S. Thakare
+                  </p>
+                </div>
+
+                <a
+                  className="text-blue-600
+                "
+                  href="Papers/Volume_3/Issue_1/IRJTAE_V3I1_007.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+              <div className="flex justify-between px-12 text-[16px]">
+                <p>8</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Motion Controlled Pick & Place Obstacle Avoider Robotic
+                    Vehicle
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Radha
+                    Surendra Tote, Madhav Mohan Tapase, Vishal Govind Rathod,
+                    Shravni Avinash Chaudhari, Dr. S. S. Thakare
+                  </p>
+                </div>
+
+                <a
+                  className="text-blue-600
+                "
+                  href="Papers/Volume_3/Issue_1/IRJTAE_V3I1_008.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
             </div>
           </div>
 
