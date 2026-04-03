@@ -808,6 +808,11 @@ export default function Archives() {
                   <h1 className="font-semibold">
                     Smart File Manager: Your All-in-one File Management Solution
                   </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Jay Gulhane,
+                    Aaditya Sirsath, Shreejay Fuke, Mayur Uparikar, Dhiraj
+                    Shirbhate
+                  </p>
                 </div>
                 <a
                   className="text-blue-600"
@@ -825,6 +830,10 @@ export default function Archives() {
                   <h1 className="font-semibold">
                     DevOps Enhanced Mock Test Web Application
                   </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Hariom
+                    Ingle, Chetan Rathod, Mahesh Jadhav, Pratik Khose Shirbhate
+                  </p>
                 </div>
                 <a
                   className="text-blue-600"
@@ -842,6 +851,12 @@ export default function Archives() {
                   <h1 className="font-semibold">
                     Real Time Sentiment Analysis Of Twitter Posts
                   </h1>
+
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Meharajbee
+                    F. Shaikh, Kalyani S. Godbole, Neha. M. Nikhade, Gauri S.
+                    Sabbalwar
+                  </p>
                 </div>
                 <a
                   className="text-blue-600"
@@ -859,6 +874,12 @@ export default function Archives() {
                   <h1 className="font-semibold">
                     Land Auction Web Application (LAWA)
                   </h1>
+
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Tushar B.
+                    Talmale, Sanskruti A. Rathi, Ankita S. Pawar, Vishal Singh
+                    Rajput
+                  </p>
                 </div>
                 <a
                   className="text-blue-600"
@@ -876,6 +897,11 @@ export default function Archives() {
                   <h1 className="font-semibold">
                     Uniserve: Multi-Service Tech Platform
                   </h1>
+
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Akash R.
+                    Prajapati, Om G. Umale, Atharv R. Tete, Abhay D. Suryawanshi
+                  </p>
                 </div>
                 <a
                   className="text-blue-600"
@@ -894,6 +920,11 @@ export default function Archives() {
                     Triglink: A Unified Platform For IoT Automation, Triggering,
                     And Control
                   </h1>
+
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Umendra T.
+                    Pardhi, Apeksha B. Rajput, Virendra Saroj, Pratiksha Pawar
+                  </p>
                 </div>
                 <a
                   className="text-blue-600"
@@ -912,6 +943,11 @@ export default function Archives() {
                     Stress Detection In IT Professionals Using Image Processing
                     And Machine Learning
                   </h1>
+
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Palak Yede,
+                    Adarsh Tiwari, Shruti Ratnaparkhi, Prajwal Kute
+                  </p>
                 </div>
                 <a
                   className="text-blue-600"
@@ -930,6 +966,12 @@ export default function Archives() {
                     Shaping The Future Of Education With Voice-Activated
                     Learning Systems
                   </h1>
+
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Sarang
+                    R.Thakre, Prathamesh M. Gaynar, Shrived U. Ambadekar, Pranit
+                    M. Puri
+                  </p>
                 </div>
                 <a
                   className="text-blue-600"
@@ -947,6 +989,12 @@ export default function Archives() {
                   <h1 className="font-semibold">
                     Paris 2024 Olympic Dashboard In Power BI With Python
                   </h1>
+
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Tejas
+                    L.Sadapure, Gajanan R. Kalmegh, Abhay M.Rathod, Akshay M.
+                    Morkhade
+                  </p>
                 </div>
                 <a
                   className="text-blue-600"
@@ -964,6 +1012,12 @@ export default function Archives() {
                   <h1 className="font-semibold">
                     Plantest: Machine Learning Based Leaf Disease Detector
                   </h1>
+
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Om S.
+                    Deshmukh, Asmit S. Gawande, Lalit S. Naitam, Vishavjeet P.
+                    Lahase
+                  </p>
                 </div>
                 <a
                   className="text-blue-600"
@@ -981,6 +1035,11 @@ export default function Archives() {
                   <h1 className="font-semibold">
                     Cloud Insights With Power BI
                   </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Vaibhavi
+                    Daoo, Soumya Sinha, Rishita Bommireddy, Shreyash
+                    Chawade{" "}
+                  </p>
                 </div>
                 <a
                   className="text-blue-600"
@@ -998,6 +1057,12 @@ export default function Archives() {
                   <h1 className="font-semibold">
                     MindMesh - Connecting Ideas With AI-driven Precision
                   </h1>
+
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Lokesh V.
+                    Bhagadkar, Havisha M. Toliwal, Kausikh V. Novbade, Darshan
+                    Bhute
+                  </p>
                 </div>
                 <a
                   className="text-blue-600"
@@ -1013,6 +1078,10 @@ export default function Archives() {
                 <p id="srno">18</p>
                 <div className="text-left w-[60%]">
                   <h1 className="font-semibold">Google Trends Peak Analyzer</h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Pawan Ingle,
+                    Aboli Galat, Kalash Shar, Ganesh Sonune
+                  </p>
                 </div>
                 <a
                   className="text-blue-600"
