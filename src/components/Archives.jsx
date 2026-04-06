@@ -206,6 +206,52 @@ export default function Archives() {
                   View
                 </a>
               </div>
+              <hr />
+              <div className="flex justify-between px-12 text-[16px]">
+                <p>9</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    Sign Language Detection Device{" "}
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Shubham
+                    Rathod, Umesh Zambare, Sujitsingh Banafar, Dinesh Pawar, Dr.
+                    S. S. Thakare
+                  </p>
+                </div>
+
+                <a
+                  className="text-blue-600
+                "
+                  href="Papers/Volume_3/Issue_1/IRJTAE_V3I1_009.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+              <hr />
+              <div className="flex justify-between px-12 text-[16px]">
+                <p>10</p>
+                <div className="text-left w-[60%]">
+                  <h1 className="font-semibold">
+                    A Comprehensive Technical Review Of The Agribot Framework
+                  </h1>
+                  <p className="pt-2 text-[12px]">
+                    <span className="font-semibold">Authors:</span> Om Kathekar,
+                    Gauri Ninawe, Atharv Misale, Shubhangi Munde, Dr. S. S.
+                    Thakre
+                  </p>
+                </div>
+
+                <a
+                  className="text-blue-600
+                "
+                  href="Papers/Volume_3/Issue_1/IRJTAE_V3I1_010.pdf"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
             </div>
           </div>
 
